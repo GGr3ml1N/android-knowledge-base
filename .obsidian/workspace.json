@@ -1,0 +1,218 @@
+{
+  "main": {
+    "id": "04d79ea5fa9361bc",
+    "type": "split",
+    "children": [
+      {
+        "id": "7daf58f9c3a0ce46",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "49b1b7828740e3e9",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Граф"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "7759af7c0fb76486",
+    "type": "split",
+    "children": [
+      {
+        "id": "0200dcb27e53c8f8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1de83f8bd9f1d789",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Файловый менеджер"
+            }
+          },
+          {
+            "id": "5900d41dd29b8837",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Поиск"
+            }
+          },
+          {
+            "id": "838c8c1519ec1b66",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Закладки"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "2347bcf6ddfa032b",
+    "type": "split",
+    "children": [
+      {
+        "id": "7f1dfeab46a7c23d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "545b0e07fabf60b8",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Обратные ссылки"
+            }
+          },
+          {
+            "id": "8891b25d5033f195",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Исходящие ссылки"
+            }
+          },
+          {
+            "id": "ada411baaaefe540",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Теги"
+            }
+          },
+          {
+            "id": "a161d6eddf241139",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "Все свойства"
+            }
+          },
+          {
+            "id": "733e758571427c11",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Структура"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Меню быстрого перехода": false,
+      "graph:Граф": false,
+      "canvas:Создать новый холст": false,
+      "daily-notes:Сегодняшняя заметка": false,
+      "templates:Вставить шаблон": false,
+      "command-palette:Открыть палитру команд": false,
+      "bases:Создать новую базу": false
+    }
+  },
+  "active": "49b1b7828740e3e9",
+  "lastOpenFiles": [
+    "resources/activity_lifecycle.png",
+    "theory/android/android components/service/Service thread.md",
+    "theory/android/android components/service/IntentService, JobIntentService.md",
+    "theory/android/android components/service/Foreground Service.md",
+    "theory/android/android components/service/Background Service.md",
+    "theory/android/android components/service/!Service.md",
+    "theory/android/android components/content provider/System ContentProvider.md",
+    "theory/android/android components/content provider/ContentResolver.md",
+    "theory/android/android components/content provider/!ContentProvider.md",
+    "theory/android/android components/activity/Config change.md",
+    "theory/android/android components/activity/Activity Lifecycle.md",
+    "theory/android/android components/activity/!Activity.md",
+    "theory/android/android components/broadcast receiver/​!BroadcastReceiver.md",
+    "theory/android/android components/broadcast receiver/Register BroadcastRecevier.md",
+    "theory/android/android components/broadcast receiver/Methods for sending broadcast.md",
+    "theory/android/android components/broadcast receiver/Long operations in onReceive().md",
+    "theory/android/android components/service",
+    "theory/android/android components/content provider",
+    "theory/android/android components/activity",
+    "theory/android/android components/broadcast receiver",
+    "theory/android/android components/Android Components.md",
+    "theory/android/android components",
+    "theory/android/Android.md",
+    "theory/android",
+    "theory/kotlin/basics of kotlin/Sealed classes.md",
+    "theory/kotlin/basics of kotlin/Data classes.md",
+    "theory/kotlin/basics of kotlin/Nested and inner classes and interfaces.md",
+    "theory/kotlin/basics of kotlin/Inline functions.md",
+    "theory/kotlin/basics of kotlin/!Basics of Kotlin.md",
+    "theory/kotlin/basics of kotlin",
+    "theory/kotlin/Kotlin.md",
+    "theory/kotlin",
+    "theory/java/object-oriented programming/Inheritance.md",
+    "theory/java/object-oriented programming/!Object-oriented programming.md",
+    "theory/java/object-oriented programming",
+    "theory/java/classes"
+  ]
+}
