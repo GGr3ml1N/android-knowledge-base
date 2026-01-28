@@ -15,7 +15,7 @@
               "state": {
                 "file": "theory/android/jetpack compose/Modifier.md",
                 "mode": "source",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
               "title": "Modifier"

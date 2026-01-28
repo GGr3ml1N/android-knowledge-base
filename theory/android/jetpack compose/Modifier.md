@@ -78,3 +78,58 @@ val myColor: Color = Color(red = 0xFF, green = 0xFF, blue = 0xFF, alpha = 0xFF)
 - `Modifier.sizeIn()`: устанавливает минимальный и максимальный размер
 
 Для установки применяются единицы `dp` (*device-independent pixels/density-independent pixels* или независимые от устройства/плотности пиксели).
+
+### Установка минимальных и максимальных размеров
+Модификаторы `heightIn()` и `widthIn()` принимают два значения - минимальные и максимальные значения. Например:
+
+```kotlin
+modifier = Modifier
+	.background(color=Color.LightGray)
+	.widthIn(min = 100.dp, max = 400.dp)
+    .heightIn(min=50.dp, max=300.dp)
+```
+
+С помощью `sizeIn()` можно сократить определение размеров:
+
+```kotlin
+modifier = Modifier
+	.background(color=Color.LightGray)
+    .sizeIn(minWidth = 100.dp, maxWidth = 400.dp, minHeight= 50.dp, maxHeight= 300.dp)
+```
+
+### Растяжение по всей длине и ширине контейнера
+
+Отдельная группа модификаторов позволяет растянуть компонент по все длине и(или) ширине контейнера:
+- `Modifier.fillMaxWidth()`: растягивает компонент по всей ширине контейнера
+- `Modifier.fillMaxHeight()`: растягивает компонент по всей высоте контейнера
+- `Modifier.fillMaxSize()`: растягивает компонент по всей длине и ширине контейнера
+
+В качестве параметра модификаторы `Modifier.fillMaxWidth()`, `Modifier.fillMaxHeight()` и `Modifier.fillMaxSize()` принимают множитель, который устанавливает, какую часть от размеров контейнера займет компонент. Это значение имеет тип Float и находится в диапазоне от 0.0 до 1.0.
+
+### Отступы
+
+Для установки отступов внутри компонента применяется модификатор `padding()`, которые имеет несколько вариантов:
+
+```kotlin 
+// устанавливает отступы от каждой стороны по отдельности
+fun Modifier.padding(start: Dp = 0.dp, top: Dp = 0.dp, end: Dp = 0.dp, bottom: Dp = 0.dp): Modifier
+// устанавливает отступы по вертикали и по горизонтали
+fun Modifier.padding(horizontal: Dp = 0.dp, vertical: Dp = 0.dp): Modifier
+// устанавливает одно значение для отступов от всех четырех сторон
+fun Modifier.padding(all: Dp): Modifier
+// устанавливает отступы в виде объекта PaddingValues
+fun Modifier.padding(paddingValues: PaddingValues): Modifier
+```
+
+В качестве значения отступов применяются единицы `dp`.
+
+### Сдвиг
+Для сдвига содержимого компонента по горизонтали и вертикали применяется модификатор `offset()`. Он имеет следующие версии:
+
+```kotlin
+fun Modifier.offset(x: Dp = 0.dp, y: Dp = 0.dp): Modifier
+fun Modifier.offset(offset: Density.() -> IntOffset): Modifier
+```
+
+
+
