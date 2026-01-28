@@ -92,17 +92,10 @@
       }
     },
     {
-      "query": "path:\"theory/android/jetpack compose/modifier\"",
+      "query": "path:\"theory/android/jetpack compose/modifier\"  ",
       "color": {
         "a": 1,
         "rgb": 5431378
-      }
-    },
-    {
-      "query": "path:\"theory/android/jetpack compose\"  ",
-      "color": {
-        "a": 1,
-        "rgb": 5431473
       }
     }
   ],
@@ -116,6 +109,6 @@
   "repelStrength": 11.0555555555556,
   "linkStrength": 0.854383680555556,
   "linkDistance": 30,
-  "scale": 0.11236309927117162,
-  "close": true
+  "scale": 1.0407054973625438,
+  "close": false
 }
