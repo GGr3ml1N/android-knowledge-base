@@ -11,14 +11,10 @@
             "id": "49b1b7828740e3e9",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "theory/android/jetpack compose/modifier/Shadow.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Shadow"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Граф"
             }
           }
         ]
@@ -94,7 +90,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "theory/android/jetpack compose/modifier/Shadow.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +99,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Обратные ссылки для Shadow"
+              "title": "Обратные ссылки"
             }
           },
           {
@@ -113,12 +108,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "theory/android/jetpack compose/modifier/Shadow.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Исходящие ссылки из Shadow"
+              "title": "Исходящие ссылки"
             }
           },
           {
@@ -156,13 +150,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "theory/android/jetpack compose/modifier/Shadow.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Структура Shadow"
+              "title": "Структура"
             }
           },
           {
@@ -196,9 +189,10 @@
   },
   "active": "49b1b7828740e3e9",
   "lastOpenFiles": [
-    "theory/android/jetpack compose/modifier/Clip.md",
-    "theory/android/jetpack compose/modifier/Shadow.md",
     "theory/android/jetpack compose/modifier/!Modifier.md",
+    "theory/android/jetpack compose/modifier/Clickable.md",
+    "theory/android/jetpack compose/modifier/Shadow.md",
+    "theory/android/jetpack compose/modifier/Clip.md",
     "theory/android/jetpack compose/modifier/Border.md",
     "theory/android/jetpack compose/modifier/Scroll.md",
     "theory/android/jetpack compose/modifier/Color.md",
@@ -221,7 +215,6 @@
     "theory/java/basics of java/!Basics of Java.md",
     "theory/android/android components/service/!Service.md",
     "theory/android/android components/content provider/!ContentProvider.md",
-    "theory/android/android components/broadcast receiver/Register BroadcastRecevier.md",
     "theory/android/jetpack compose/container",
     "theory/android/jetpack compose/modifier",
     "theory/android/jetpack compose",
