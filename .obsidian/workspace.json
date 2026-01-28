@@ -20,8 +20,19 @@
               "icon": "lucide-file",
               "title": "!Modifier"
             }
+          },
+          {
+            "id": "ef951c3ec69860dd",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Граф"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -94,7 +105,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "theory/android/jetpack compose/modifier/!Modifier.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +114,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Обратные ссылки для !Modifier"
+              "title": "Обратные ссылки"
             }
           },
           {
@@ -113,12 +123,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "theory/android/jetpack compose/modifier/!Modifier.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Исходящие ссылки из !Modifier"
+              "title": "Исходящие ссылки"
             }
           },
           {
@@ -156,13 +165,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "theory/android/jetpack compose/modifier/!Modifier.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Структура !Modifier"
+              "title": "Структура"
             }
           },
           {
@@ -194,13 +202,18 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "49b1b7828740e3e9",
+  "active": "ef951c3ec69860dd",
   "lastOpenFiles": [
-    "theory/android/jetpack compose/modifier/Color.md",
+    "theory/android/jetpack compose/!Jetpack Compose.md",
+    "theory/android/jetpack compose/container",
     "theory/android/jetpack compose/modifier/!Modifier.md",
+    "theory/android/jetpack compose/modifier/Scroll.md",
+    "theory/android/jetpack compose/modifier/Offset.md",
+    "theory/android/jetpack compose/modifier/Padding.md",
+    "theory/android/jetpack compose/modifier/Setting the dimensions.md",
+    "theory/android/jetpack compose/modifier/Color.md",
     "theory/android/android components/activity/!Activity.md",
     "theory/android/jetpack compose/modifier",
-    "theory/android/jetpack compose/!Jetpack Compose.md",
     "theory/android/jetpack compose",
     "README.md",
     "resources/activity_lifecycle.png",
@@ -226,12 +239,6 @@
     "theory/android/android components",
     "theory/android/Android.md",
     "theory/android",
-    "theory/kotlin/basics of kotlin/Sealed classes.md",
-    "theory/kotlin/basics of kotlin/Data classes.md",
-    "theory/kotlin/basics of kotlin/Nested and inner classes and interfaces.md",
-    "theory/kotlin/basics of kotlin/Inline functions.md",
-    "theory/kotlin/basics of kotlin/!Basics of Kotlin.md",
-    "theory/kotlin/basics of kotlin",
-    "theory/kotlin"
+    "theory/kotlin/basics of kotlin"
   ]
 }
