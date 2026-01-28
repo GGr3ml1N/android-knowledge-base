@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "theory/android/jetpack compose/modifier/Color.md",
+                "file": "theory/android/jetpack compose/modifier/Shadow.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Color"
+              "title": "Shadow"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "theory/android/jetpack compose/modifier/Color.md",
+                "file": "theory/android/jetpack compose/modifier/Shadow.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Обратные ссылки для Color"
+              "title": "Обратные ссылки для Shadow"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "theory/android/jetpack compose/modifier/Color.md",
+                "file": "theory/android/jetpack compose/modifier/Shadow.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Исходящие ссылки из Color"
+              "title": "Исходящие ссылки из Shadow"
             }
           },
           {
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "theory/android/jetpack compose/modifier/Color.md",
+                "file": "theory/android/jetpack compose/modifier/Shadow.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Структура Color"
+              "title": "Структура Shadow"
             }
           },
           {
@@ -196,6 +196,12 @@
   },
   "active": "49b1b7828740e3e9",
   "lastOpenFiles": [
+    "theory/android/jetpack compose/modifier/Clip.md",
+    "theory/android/jetpack compose/modifier/Shadow.md",
+    "theory/android/jetpack compose/modifier/!Modifier.md",
+    "theory/android/jetpack compose/modifier/Border.md",
+    "theory/android/jetpack compose/modifier/Scroll.md",
+    "theory/android/jetpack compose/modifier/Color.md",
     "theory/kotlin/basics of kotlin/Data classes.md",
     "theory/kotlin/basics of kotlin/!Basics of Kotlin.md",
     "theory/android/jetpack compose/Jetpack Compose.md",
@@ -216,12 +222,6 @@
     "theory/android/android components/service/!Service.md",
     "theory/android/android components/content provider/!ContentProvider.md",
     "theory/android/android components/broadcast receiver/Register BroadcastRecevier.md",
-    "theory/android/android components/broadcast receiver/Methods for sending broadcast.md",
-    "theory/android/android components/broadcast receiver/Long operations in onReceive().md",
-    "theory/android/android components/broadcast receiver/​!BroadcastReceiver.md",
-    "theory/android/android components/activity/Activity Lifecycle.md",
-    "theory/android/android components/activity/!Activity.md",
-    "theory/android/android components/Android Components.md",
     "theory/android/jetpack compose/container",
     "theory/android/jetpack compose/modifier",
     "theory/android/jetpack compose",
