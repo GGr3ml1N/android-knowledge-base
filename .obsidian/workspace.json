@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "theory/kotlin/basics of kotlin/Sealed classes.md",
+                "file": "theory/android/jetpack compose/modifier/Color.md",
                 "mode": "source",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
-              "title": "Sealed classes"
+              "title": "Color"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "theory/kotlin/basics of kotlin/Sealed classes.md",
+                "file": "theory/android/jetpack compose/modifier/Color.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Обратные ссылки для Sealed classes"
+              "title": "Обратные ссылки для Color"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "theory/kotlin/basics of kotlin/Sealed classes.md",
+                "file": "theory/android/jetpack compose/modifier/Color.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Исходящие ссылки из Sealed classes"
+              "title": "Исходящие ссылки из Color"
             }
           },
           {
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "theory/kotlin/basics of kotlin/Sealed classes.md",
+                "file": "theory/android/jetpack compose/modifier/Color.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Структура Sealed classes"
+              "title": "Структура Color"
             }
           },
           {
@@ -196,6 +196,11 @@
   },
   "active": "49b1b7828740e3e9",
   "lastOpenFiles": [
+    "theory/kotlin/basics of kotlin/Data classes.md",
+    "theory/kotlin/basics of kotlin/!Basics of Kotlin.md",
+    "theory/android/jetpack compose/Jetpack Compose.md",
+    "theory/android/Android.md",
+    "theory/kotlin/basics of kotlin/Sealed classes.md",
     "theory/kotlin/Kotlin.md",
     "theory/java/Java.md",
     "theory/java/object-oriented programming/Encapsulation.md",
@@ -217,12 +222,7 @@
     "theory/android/android components/activity/Activity Lifecycle.md",
     "theory/android/android components/activity/!Activity.md",
     "theory/android/android components/Android Components.md",
-    "theory/android/jetpack compose/modifier/!Modifier.md",
-    "theory/android/jetpack compose/!Jetpack Compose.md",
     "theory/android/jetpack compose/container",
-    "theory/android/jetpack compose/modifier/Scroll.md",
-    "theory/android/jetpack compose/modifier/Offset.md",
-    "theory/android/jetpack compose/modifier/Padding.md",
     "theory/android/jetpack compose/modifier",
     "theory/android/jetpack compose",
     "resources/activity_lifecycle.png",
