@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "theory/android/jetpack compose/!Jetpack Compose.md",
+                "file": "theory/android/jetpack compose/Modifier.md",
                 "mode": "source",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
-              "title": "!Jetpack Compose"
+              "title": "Modifier"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "theory/android/jetpack compose/!Jetpack Compose.md",
+                "file": "theory/android/jetpack compose/Modifier.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Обратные ссылки для !Jetpack Compose"
+              "title": "Обратные ссылки для Modifier"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "theory/android/jetpack compose/!Jetpack Compose.md",
+                "file": "theory/android/jetpack compose/Modifier.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Исходящие ссылки из !Jetpack Compose"
+              "title": "Исходящие ссылки из Modifier"
             }
           },
           {
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "theory/android/jetpack compose/!Jetpack Compose.md",
+                "file": "theory/android/jetpack compose/Modifier.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Структура !Jetpack Compose"
+              "title": "Структура Modifier"
             }
           },
           {
@@ -196,8 +196,8 @@
   },
   "active": "49b1b7828740e3e9",
   "lastOpenFiles": [
-    "theory/android/jetpack compose/Modifier.md",
     "theory/android/jetpack compose/!Jetpack Compose.md",
+    "theory/android/jetpack compose/Modifier.md",
     "theory/android/jetpack compose",
     "README.md",
     "resources/activity_lifecycle.png",
