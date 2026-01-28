@@ -150,12 +150,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "README.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Структура"
+              "title": "Структура README"
             }
           },
           {
@@ -187,7 +188,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "49b1b7828740e3e9",
+  "active": "1de83f8bd9f1d789",
   "lastOpenFiles": [
     "resources/activity_lifecycle.png",
     "theory/android/android components/service/Service thread.md",
