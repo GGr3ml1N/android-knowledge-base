@@ -13,26 +13,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "theory/android/jetpack compose/modifier/!Modifier.md",
+                "file": "theory/kotlin/basics of kotlin/Sealed classes.md",
                 "mode": "source",
-                "source": true
+                "source": false
               },
               "icon": "lucide-file",
-              "title": "!Modifier"
-            }
-          },
-          {
-            "id": "ef951c3ec69860dd",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Граф"
+              "title": "Sealed classes"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -105,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "theory/kotlin/basics of kotlin/Sealed classes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Обратные ссылки"
+              "title": "Обратные ссылки для Sealed classes"
             }
           },
           {
@@ -123,11 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "theory/kotlin/basics of kotlin/Sealed classes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Исходящие ссылки"
+              "title": "Исходящие ссылки из Sealed classes"
             }
           },
           {
@@ -165,12 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "theory/kotlin/basics of kotlin/Sealed classes.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Структура"
+              "title": "Структура Sealed classes"
             }
           },
           {
@@ -202,42 +194,43 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ef951c3ec69860dd",
+  "active": "49b1b7828740e3e9",
   "lastOpenFiles": [
-    "theory/android/jetpack compose/!Jetpack Compose.md",
-    "theory/android/jetpack compose/container",
-    "theory/android/jetpack compose/modifier/!Modifier.md",
-    "theory/android/jetpack compose/modifier/Scroll.md",
-    "theory/android/jetpack compose/modifier/Offset.md",
-    "theory/android/jetpack compose/modifier/Padding.md",
-    "theory/android/jetpack compose/modifier/Setting the dimensions.md",
-    "theory/android/jetpack compose/modifier/Color.md",
-    "theory/android/android components/activity/!Activity.md",
-    "theory/android/jetpack compose/modifier",
-    "theory/android/jetpack compose",
-    "README.md",
-    "resources/activity_lifecycle.png",
-    "theory/android/android components/service/Service thread.md",
-    "theory/android/android components/service/IntentService, JobIntentService.md",
-    "theory/android/android components/service/Foreground Service.md",
-    "theory/android/android components/service/Background Service.md",
+    "theory/kotlin/Kotlin.md",
+    "theory/java/Java.md",
+    "theory/java/object-oriented programming/Encapsulation.md",
+    "theory/java/object-oriented programming/Inheritance.md",
+    "theory/java/object-oriented programming/!Object-oriented programming.md",
+    "theory/java/classes/Methods.md",
+    "theory/java/classes/Method parameters.md",
+    "theory/java/classes/!Classes.md",
+    "theory/java/classes/Classes and objects.md",
+    "theory/java/basics of java/Variables and constants.md",
+    "theory/java/basics of java/Java Program Structure.md",
+    "theory/java/basics of java/!Basics of Java.md",
     "theory/android/android components/service/!Service.md",
-    "theory/android/android components/content provider/System ContentProvider.md",
-    "theory/android/android components/content provider/ContentResolver.md",
     "theory/android/android components/content provider/!ContentProvider.md",
-    "theory/android/android components/activity/Config change.md",
-    "theory/android/android components/activity/Activity Lifecycle.md",
-    "theory/android/android components/broadcast receiver/​!BroadcastReceiver.md",
     "theory/android/android components/broadcast receiver/Register BroadcastRecevier.md",
     "theory/android/android components/broadcast receiver/Methods for sending broadcast.md",
     "theory/android/android components/broadcast receiver/Long operations in onReceive().md",
+    "theory/android/android components/broadcast receiver/​!BroadcastReceiver.md",
+    "theory/android/android components/activity/Activity Lifecycle.md",
+    "theory/android/android components/activity/!Activity.md",
+    "theory/android/android components/Android Components.md",
+    "theory/android/jetpack compose/modifier/!Modifier.md",
+    "theory/android/jetpack compose/!Jetpack Compose.md",
+    "theory/android/jetpack compose/container",
+    "theory/android/jetpack compose/modifier/Scroll.md",
+    "theory/android/jetpack compose/modifier/Offset.md",
+    "theory/android/jetpack compose/modifier/Padding.md",
+    "theory/android/jetpack compose/modifier",
+    "theory/android/jetpack compose",
+    "resources/activity_lifecycle.png",
     "theory/android/android components/service",
     "theory/android/android components/content provider",
     "theory/android/android components/activity",
     "theory/android/android components/broadcast receiver",
-    "theory/android/android components/Android Components.md",
     "theory/android/android components",
-    "theory/android/Android.md",
     "theory/android",
     "theory/kotlin/basics of kotlin"
   ]

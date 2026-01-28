@@ -3,4 +3,4 @@
 Для доступа к данным контент провайдера используется класс [[ContentResolver]].
 *ContentResolver* предоставляет CRUD API для доступа к хранилищу данных. *ContentResolver* определяет к какому провайдеру направить запрос. Выбранный *ContentResolver* обрабатывает запрос и возвращает данные обратно резолверу. *ContentResolver* передает результат пользователю, вызвавшему метод.
 
-Look also: [[System ContentProvider]]
+See also: [[System ContentProvider]]

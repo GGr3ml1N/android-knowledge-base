@@ -19,4 +19,4 @@ _Bound Service_ привязывается к компоненту вызово�
 
 *Bound* и *Started* сервисы важно различать, потому что у них разные жизненные циклы.
 
-Look also: [[Service thread]], [[IntentService, JobIntentService]]
+See also: [[Service thread]], [[IntentService, JobIntentService]]

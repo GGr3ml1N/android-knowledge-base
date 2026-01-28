@@ -5,7 +5,7 @@
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": false,
+  "collapse-color-groups": true,
   "colorGroups": [
     {
       "query": "path:\"theory/android/android components/broadcast receiver\"  ",
@@ -97,6 +97,20 @@
         "a": 1,
         "rgb": 5431378
       }
+    },
+    {
+      "query": "path:\"theory/android/jetpack compose/container\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 5431473
+      }
+    },
+    {
+      "query": "path:\"theory/android/jetpack compose\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 5419488
+      }
     }
   ],
   "collapse-display": true,
@@ -110,5 +124,5 @@
   "linkStrength": 0.854383680555556,
   "linkDistance": 30,
   "scale": 1.0407054973625438,
-  "close": false
+  "close": true
 }
