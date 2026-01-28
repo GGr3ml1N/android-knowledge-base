@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "theory/android/jetpack compose/Modifier.md",
+                "file": "theory/android/jetpack compose/modifier/!Modifier.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Modifier"
+              "title": "!Modifier"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "theory/android/jetpack compose/Modifier.md",
+                "file": "theory/android/jetpack compose/modifier/!Modifier.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Обратные ссылки для Modifier"
+              "title": "Обратные ссылки для !Modifier"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "theory/android/jetpack compose/Modifier.md",
+                "file": "theory/android/jetpack compose/modifier/!Modifier.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Исходящие ссылки из Modifier"
+              "title": "Исходящие ссылки из !Modifier"
             }
           },
           {
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "theory/android/jetpack compose/Modifier.md",
+                "file": "theory/android/jetpack compose/modifier/!Modifier.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Структура Modifier"
+              "title": "Структура !Modifier"
             }
           },
           {
@@ -196,7 +196,10 @@
   },
   "active": "49b1b7828740e3e9",
   "lastOpenFiles": [
-    "theory/android/jetpack compose/Modifier.md",
+    "theory/android/jetpack compose/modifier/Color.md",
+    "theory/android/jetpack compose/modifier/!Modifier.md",
+    "theory/android/android components/activity/!Activity.md",
+    "theory/android/jetpack compose/modifier",
     "theory/android/jetpack compose/!Jetpack Compose.md",
     "theory/android/jetpack compose",
     "README.md",
@@ -211,7 +214,6 @@
     "theory/android/android components/content provider/!ContentProvider.md",
     "theory/android/android components/activity/Config change.md",
     "theory/android/android components/activity/Activity Lifecycle.md",
-    "theory/android/android components/activity/!Activity.md",
     "theory/android/android components/broadcast receiver/​!BroadcastReceiver.md",
     "theory/android/android components/broadcast receiver/Register BroadcastRecevier.md",
     "theory/android/android components/broadcast receiver/Methods for sending broadcast.md",
@@ -230,8 +232,6 @@
     "theory/kotlin/basics of kotlin/Inline functions.md",
     "theory/kotlin/basics of kotlin/!Basics of Kotlin.md",
     "theory/kotlin/basics of kotlin",
-    "theory/kotlin/Kotlin.md",
-    "theory/kotlin",
-    "theory/java/object-oriented programming"
+    "theory/kotlin"
   ]
 }
