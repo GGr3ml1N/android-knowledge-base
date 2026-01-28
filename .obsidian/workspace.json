@@ -11,10 +11,14 @@
             "id": "49b1b7828740e3e9",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Граф"
+              "type": "markdown",
+              "state": {
+                "file": "theory/android/jetpack compose/!Jetpack Compose.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "!Jetpack Compose"
             }
           }
         ]
@@ -90,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "theory/android/jetpack compose/!Jetpack Compose.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Обратные ссылки"
+              "title": "Обратные ссылки для !Jetpack Compose"
             }
           },
           {
@@ -108,11 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "theory/android/jetpack compose/!Jetpack Compose.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Исходящие ссылки"
+              "title": "Исходящие ссылки из !Jetpack Compose"
             }
           },
           {
@@ -150,12 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "theory/android/jetpack compose/!Jetpack Compose.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Структура"
+              "title": "Структура !Jetpack Compose"
             }
           },
           {
@@ -187,8 +194,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e0b8ab597f0637c3",
+  "active": "49b1b7828740e3e9",
   "lastOpenFiles": [
+    "theory/android/jetpack compose/Modifier.md",
+    "theory/android/jetpack compose/!Jetpack Compose.md",
+    "theory/android/jetpack compose",
     "README.md",
     "resources/activity_lifecycle.png",
     "theory/android/android components/service/Service thread.md",
@@ -222,9 +232,6 @@
     "theory/kotlin/basics of kotlin",
     "theory/kotlin/Kotlin.md",
     "theory/kotlin",
-    "theory/java/object-oriented programming/Inheritance.md",
-    "theory/java/object-oriented programming/!Object-oriented programming.md",
-    "theory/java/object-oriented programming",
-    "theory/java/classes"
+    "theory/java/object-oriented programming"
   ]
 }
