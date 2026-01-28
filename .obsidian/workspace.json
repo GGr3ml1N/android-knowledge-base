@@ -15,7 +15,7 @@
               "state": {
                 "file": "theory/android/jetpack compose/Modifier.md",
                 "mode": "source",
-                "source": true
+                "source": false
               },
               "icon": "lucide-file",
               "title": "Modifier"
@@ -196,8 +196,8 @@
   },
   "active": "49b1b7828740e3e9",
   "lastOpenFiles": [
-    "theory/android/jetpack compose/!Jetpack Compose.md",
     "theory/android/jetpack compose/Modifier.md",
+    "theory/android/jetpack compose/!Jetpack Compose.md",
     "theory/android/jetpack compose",
     "README.md",
     "resources/activity_lifecycle.png",

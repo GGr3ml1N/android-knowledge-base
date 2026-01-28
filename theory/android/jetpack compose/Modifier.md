@@ -64,5 +64,17 @@ val myColor: Color = Color(0xFF0000FF)
 ```kotlin
 val myColor: Color = Color(red = 0xFF, green = 0xFF, blue = 0xFF, alpha = 0xFF)
 ```
- 
 
+### Установка размеров
+
+Для установки размеров компонентов в Jetpack Compose определен целый ряд модификаторов:
+
+- `Modifier.height()`: устанавливает высоту
+- `Modifier.width()`: устанавливает ширину
+- `Modifier.fillMaxHeight()`: растягивает компонент по всей длине контейнера
+- `Modifier.heightIn()`: устанавливает минимальную и максимальную высоту
+- `Modifier.widthIn()`: устанавливает минимальную и максимальную ширину
+- `Modifier.size()`: устанавливает размер
+- `Modifier.sizeIn()`: устанавливает минимальный и максимальный размер
+
+Для установки применяются единицы `dp` (*device-independent pixels/density-independent pixels* или независимые от устройства/плотности пиксели).
