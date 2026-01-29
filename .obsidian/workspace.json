@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "7daf58f9c3a0ce46",
+        "id": "1a9d03f2ddb1cd85",
         "type": "tabs",
         "children": [
           {
-            "id": "49b1b7828740e3e9",
+            "id": "073fb47f0eab7ab6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "theory/android/jetpack compose/container/Box.md",
-                "mode": "source",
+                "file": "theory/android/android components/activity/Activity Lifecycle.md",
+                "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Box"
+              "title": "Activity Lifecycle"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "theory/android/jetpack compose/container/Box.md",
+                "file": "theory/android/android components/activity/Activity Lifecycle.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Обратные ссылки для Box"
+              "title": "Обратные ссылки для Activity Lifecycle"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "theory/android/jetpack compose/container/Box.md",
+                "file": "theory/android/android components/activity/Activity Lifecycle.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Исходящие ссылки из Box"
+              "title": "Исходящие ссылки из Activity Lifecycle"
             }
           },
           {
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "theory/android/jetpack compose/container/Box.md",
+                "file": "theory/android/android components/activity/Activity Lifecycle.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Структура Box"
+              "title": "Структура Activity Lifecycle"
             }
           },
           {
@@ -195,8 +195,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "49b1b7828740e3e9",
+  "active": "073fb47f0eab7ab6",
   "lastOpenFiles": [
+    "theory/android/android components/activity/!Activity.md",
+    "resources/activity_lifecycle.png",
+    "theory/android/jetpack compose/container/Column.md",
+    "theory/android/jetpack compose/Jetpack Compose.md",
     "theory/android/jetpack compose/container/!Containers.md",
     "theory/android/jetpack compose/container/Box.md",
     "theory/android/android components/service/!Service.md",
@@ -210,7 +214,6 @@
     "theory/android/jetpack compose/modifier/Color.md",
     "theory/kotlin/basics of kotlin/Data classes.md",
     "theory/kotlin/basics of kotlin/!Basics of Kotlin.md",
-    "theory/android/jetpack compose/Jetpack Compose.md",
     "theory/android/Android.md",
     "theory/kotlin/basics of kotlin/Sealed classes.md",
     "theory/kotlin/Kotlin.md",
@@ -221,12 +224,9 @@
     "theory/java/classes/Methods.md",
     "theory/java/classes/Method parameters.md",
     "theory/java/classes/!Classes.md",
-    "theory/java/classes/Classes and objects.md",
-    "theory/java/basics of java/Variables and constants.md",
     "theory/android/jetpack compose/container",
     "theory/android/jetpack compose/modifier",
     "theory/android/jetpack compose",
-    "resources/activity_lifecycle.png",
     "theory/android/android components/service",
     "theory/android/android components/content provider",
     "theory/android/android components/activity",

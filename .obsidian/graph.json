@@ -43,13 +43,6 @@
       }
     },
     {
-      "query": "path:theory/android  ",
-      "color": {
-        "a": 1,
-        "rgb": 5419488
-      }
-    },
-    {
       "query": "path:\"theory/kotlin/basics of kotlin\"  ",
       "color": {
         "a": 1,
@@ -102,11 +95,18 @@
       "query": "path:\"theory/android/jetpack compose/container\"  ",
       "color": {
         "a": 1,
-        "rgb": 5431473
+        "rgb": 11284677
       }
     },
     {
       "query": "path:\"theory/android/jetpack compose\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 5431473
+      }
+    },
+    {
+      "query": "path:theory/android  ",
       "color": {
         "a": 1,
         "rgb": 5419488
@@ -119,10 +119,10 @@
   "nodeSizeMultiplier": 1.27884982638889,
   "lineSizeMultiplier": 1.56702256944444,
   "collapse-forces": false,
-  "centerStrength": 0.782248263888889,
-  "repelStrength": 20,
+  "centerStrength": 0.628125,
+  "repelStrength": 17.6553819444444,
   "linkStrength": 1,
-  "linkDistance": 47,
-  "scale": 1.3387841921753574,
+  "linkDistance": 30,
+  "scale": 0.6244656813740666,
   "close": true
 }
