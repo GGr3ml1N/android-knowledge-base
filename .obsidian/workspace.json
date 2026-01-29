@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "theory/android/android components/broadcast receiver/Methods for sending broadcast.md",
+                "file": "theory/android/jetpack compose/container/Box.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Methods for sending broadcast"
+              "title": "Box"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "theory/android/android components/broadcast receiver/Methods for sending broadcast.md",
+                "file": "theory/android/jetpack compose/container/Box.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Обратные ссылки для Methods for sending broadcast"
+              "title": "Обратные ссылки для Box"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "theory/android/android components/broadcast receiver/Methods for sending broadcast.md",
+                "file": "theory/android/jetpack compose/container/Box.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Исходящие ссылки из Methods for sending broadcast"
+              "title": "Исходящие ссылки из Box"
             }
           },
           {
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "theory/android/android components/broadcast receiver/Methods for sending broadcast.md",
+                "file": "theory/android/jetpack compose/container/Box.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Структура Methods for sending broadcast"
+              "title": "Структура Box"
             }
           },
           {
@@ -197,6 +197,10 @@
   },
   "active": "49b1b7828740e3e9",
   "lastOpenFiles": [
+    "theory/android/jetpack compose/container/!Containers.md",
+    "theory/android/jetpack compose/container/Box.md",
+    "theory/android/android components/service/!Service.md",
+    "theory/android/android components/broadcast receiver/Methods for sending broadcast.md",
     "theory/android/jetpack compose/modifier/!Modifier.md",
     "theory/android/jetpack compose/modifier/Clickable.md",
     "theory/android/jetpack compose/modifier/Shadow.md",
@@ -219,10 +223,6 @@
     "theory/java/classes/!Classes.md",
     "theory/java/classes/Classes and objects.md",
     "theory/java/basics of java/Variables and constants.md",
-    "theory/java/basics of java/Java Program Structure.md",
-    "theory/java/basics of java/!Basics of Java.md",
-    "theory/android/android components/service/!Service.md",
-    "theory/android/android components/content provider/!ContentProvider.md",
     "theory/android/jetpack compose/container",
     "theory/android/jetpack compose/modifier",
     "theory/android/jetpack compose",
