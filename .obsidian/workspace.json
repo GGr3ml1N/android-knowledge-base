@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "theory/android/jetpack compose/container/Container compositions.md",
+                "file": "theory/android/jetpack compose/container/LazyColumn, LazyRow.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Container compositions"
+              "title": "LazyColumn, LazyRow"
             }
           }
         ]
@@ -78,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "2347bcf6ddfa032b",
@@ -95,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "theory/android/jetpack compose/container/Container compositions.md",
+                "file": "theory/android/jetpack compose/container/LazyColumn, LazyRow.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Обратные ссылки для Container compositions"
+              "title": "Обратные ссылки для LazyColumn, LazyRow"
             }
           },
           {
@@ -114,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "theory/android/jetpack compose/container/Container compositions.md",
+                "file": "theory/android/jetpack compose/container/LazyColumn, LazyRow.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Исходящие ссылки из Container compositions"
+              "title": "Исходящие ссылки из LazyColumn, LazyRow"
             }
           },
           {
@@ -157,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "theory/android/jetpack compose/container/Container compositions.md",
+                "file": "theory/android/jetpack compose/container/LazyColumn, LazyRow.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Структура Container compositions"
+              "title": "Структура LazyColumn, LazyRow"
             }
           },
           {
@@ -198,8 +197,11 @@
   },
   "active": "182fc3414eac3122",
   "lastOpenFiles": [
-    "theory/android/jetpack compose/container/!Container.md",
+    "theory/android/jetpack compose/container/Surface.md",
+    "theory/android/jetpack compose/container/LazyColumn, LazyRow.md",
     "theory/android/jetpack compose/container/Container compositions.md",
+    "resources/simple_list.png",
+    "theory/android/jetpack compose/container/!Container.md",
     "theory/android/jetpack compose/container/Row.md",
     "resources/row.png",
     "resources/row_arrangement_visualization.gif",
@@ -227,8 +229,6 @@
     "theory/kotlin/basics of kotlin/Sealed classes.md",
     "theory/kotlin/Kotlin.md",
     "theory/java/Java.md",
-    "theory/java/object-oriented programming/Encapsulation.md",
-    "theory/java/object-oriented programming/Inheritance.md",
     "theory/android/jetpack compose/container",
     "theory/android/jetpack compose/modifier",
     "theory/android/jetpack compose",
