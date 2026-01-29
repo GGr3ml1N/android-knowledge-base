@@ -57,7 +57,12 @@ inline fun Column(
 Стоит отметить, что модификатор `weight()` может принимать второй параметр - булевое значение, которое указывает, будет ли ему выделяться пространство в соответствии с его весом. Если этот параметр равен `false`, то его вес не учитывается:
 
 ```kotlin
-Box(modifier = Modifier.background(Color.Yellow).fillMaxWidth().weight(3f, fill=false))
+Box(
+	modifier = Modifier
+		.background(Color.Yellow)
+		.fillMaxWidth()
+		.weight(3f, fill=false)
+)
 ```
 
 ###### Сочетание весов и точных размеров
@@ -76,9 +81,16 @@ Column {
 	    modifier = Modifier
 		    .background(Color.DarkGray)
 			.fillMaxWidth()
-			.height(150.dp))
+			.height(150.dp)
+	)
     Box(
 	    modifier = Modifier
-	    .background(Color.Blue).fillMaxWidth().weight(2f))
-            }
+		    .background(Color.Blue)
+		    .fillMaxWidth()
+		    .weight(2f)
+	)
+}
 ```
+![[column.png]]
+
+Здесь для второго элемента `Box` установлена высота в 150 единиц, а для остальных установлены веса - 1f и 2f. Таким образом, получится, что от всей длины контейера `Column` (а он будет растягиваться на весь экран) второй элемент получит высоту в 150 единиц. Оставшееся пространство затем будет распределено между первым и третим элементами в соответствии с их весами.

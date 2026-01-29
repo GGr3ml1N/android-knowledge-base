@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "1a9d03f2ddb1cd85",
+        "id": "61ed7a06e98332e7",
         "type": "tabs",
         "children": [
           {
-            "id": "073fb47f0eab7ab6",
+            "id": "182fc3414eac3122",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "theory/android/jetpack compose/container/Column.md",
+                "file": "theory/android/jetpack compose/container/Row.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Column"
+              "title": "Row"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "theory/android/jetpack compose/container/Column.md",
+                "file": "theory/android/jetpack compose/container/Row.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Обратные ссылки для Column"
+              "title": "Обратные ссылки для Row"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "theory/android/jetpack compose/container/Column.md",
+                "file": "theory/android/jetpack compose/container/Row.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Исходящие ссылки из Column"
+              "title": "Исходящие ссылки из Row"
             }
           },
           {
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "theory/android/jetpack compose/container/Column.md",
+                "file": "theory/android/jetpack compose/container/Row.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Структура Column"
+              "title": "Структура Row"
             }
           },
           {
@@ -195,15 +195,19 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "073fb47f0eab7ab6",
+  "active": "182fc3414eac3122",
   "lastOpenFiles": [
+    "resources/row_arrangement_visualization.gif",
+    "2026-01-29.md",
+    "theory/android/jetpack compose/container/!Container.md",
+    "theory/android/jetpack compose/container/Row.md",
+    "theory/android/jetpack compose/container/Column.md",
+    "resources/column.png",
     "theory/android/android components/activity/Activity Lifecycle.md",
     "resources/column_arrangement_visualization.gif",
     "theory/android/android components/activity/!Activity.md",
     "resources/activity_lifecycle.png",
-    "theory/android/jetpack compose/container/Column.md",
     "theory/android/jetpack compose/Jetpack Compose.md",
-    "theory/android/jetpack compose/container/!Containers.md",
     "theory/android/jetpack compose/container/Box.md",
     "theory/android/android components/service/!Service.md",
     "theory/android/android components/broadcast receiver/Methods for sending broadcast.md",
@@ -222,9 +226,6 @@
     "theory/java/Java.md",
     "theory/java/object-oriented programming/Encapsulation.md",
     "theory/java/object-oriented programming/Inheritance.md",
-    "theory/java/object-oriented programming/!Object-oriented programming.md",
-    "theory/java/classes/Methods.md",
-    "theory/java/classes/Method parameters.md",
     "theory/android/jetpack compose/container",
     "theory/android/jetpack compose/modifier",
     "theory/android/jetpack compose",
