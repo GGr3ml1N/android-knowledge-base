@@ -176,5 +176,59 @@ LazyVerticalGrid(
 }
 ```
 
+Минимальную ширину в данном случае я определил на основе содержимого ячейки. В итоге при вертикальной ориентации на моем устройстве будет создано 3 столбца
+
+![[adaptive_vertical_grid.png]]
+
+Тогда как при горизонтальной ориентации будет создаваться аж 5 столбцов
+
+![[adaptive_vertical_grid_h.png]]
+
+##### Установка точных размеров
+
+Еще один метод `GridCells.FixedSize()` позволяет задать точный размер ячейки (ширину столбцов или высоту строк). В этом случае создается максимально возможное количество строк или столбцов при условии, что каждая ячейка имеет указанный размер. Значение размера передается в метод `GridCells.FixedSize()` в качестве единственного параметра.
+
+```kotlin
+data class Language(val name:String, val hexColor: Long)
+
+val langs = listOf(
+	Language("Kotlin", 0xff16a085),
+    Language("Java", 0xff2980b9),
+    Language("JavaScript", 0xff8e44ad),
+    Language("Python", 0xff2c3e50),
+    Language("Rust",0xffd35400),
+    Language("C#",0xff27ae60),
+    Language("C++",0xfff39c12),
+    Language("Go",0xff1abc9c)
+)
+LazyVerticalGrid(
+	columns = GridCells.FixedSize(size=140.dp),
+    modifier = Modifier.fillMaxSize(),
+    horizontalArrangement = Arrangement.Center
+) {
+    items(langs) {lang ->
+        Column(
+	        modifier = Modifier
+		        .padding(7.dp), 
+		    horizontalAlignment = Alignment.CenterHorizontally
+		) {
+            Box(modifier = Modifier
+	            .size(100.dp)
+	            .background(Color(lang.hexColor))
+	        )
+            Text(
+	            text = lang.name, 
+		        fontSize = 24.sp
+		    )
+        }
+    }
+}
+```
+
+В итоге при вертикальной ориентации на моем устройстве будет создано 2 столбца
+
 ![[fixed_vertical_grid.png]]
 
+Тогда как при горизонтальной ориентации будет создаваться 4 столбца
+
+![[fixed_vertical_grid_h.png]]

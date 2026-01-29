@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "theory/android/jetpack compose/container/Grid.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
@@ -180,8 +180,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -198,10 +197,13 @@
   "active": "182fc3414eac3122",
   "lastOpenFiles": [
     "resources/fixed_vertical_grid.png",
+    "resources/fixed_vertical_grid_h.png",
+    "resources/adaptive_vertical_grid_h.png",
+    "resources/adaptive_vertical_grid.png",
+    "theory/android/jetpack compose/container/Grid.md",
     "resources/Не подтверждено 998.~",
     "resources/lazy_vertical_grid.png",
     "resources/lazy_horizontal_grid.png",
-    "theory/android/jetpack compose/container/Grid.md",
     "theory/android/jetpack compose/container/LazyColumn, LazyRow.md",
     "theory/android/jetpack compose/container/Surface.md",
     "theory/android/jetpack compose/container/Container compositions.md",
@@ -216,7 +218,6 @@
     "theory/android/android components/activity/Activity Lifecycle.md",
     "resources/column_arrangement_visualization.gif",
     "theory/android/android components/activity/!Activity.md",
-    "resources/activity_lifecycle.png",
     "theory/android/jetpack compose/Jetpack Compose.md",
     "theory/android/jetpack compose/container/Box.md",
     "theory/android/android components/service/!Service.md",
