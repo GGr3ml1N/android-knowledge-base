@@ -197,8 +197,9 @@
   },
   "active": "182fc3414eac3122",
   "lastOpenFiles": [
-    "theory/android/jetpack compose/container/LazyColumn, LazyRow.md",
+    "resources/lazy_horizontal_grid.png",
     "theory/android/jetpack compose/container/Grid.md",
+    "theory/android/jetpack compose/container/LazyColumn, LazyRow.md",
     "theory/android/jetpack compose/container/Surface.md",
     "theory/android/jetpack compose/container/Container compositions.md",
     "resources/simple_list.png",
@@ -228,7 +229,6 @@
     "theory/kotlin/basics of kotlin/!Basics of Kotlin.md",
     "theory/android/Android.md",
     "theory/kotlin/basics of kotlin/Sealed classes.md",
-    "theory/kotlin/Kotlin.md",
     "theory/android/jetpack compose/container",
     "theory/android/jetpack compose/modifier",
     "theory/android/jetpack compose",

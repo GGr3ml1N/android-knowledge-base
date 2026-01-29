@@ -40,3 +40,54 @@ fun LazyHorizontalGrid(
 - `GridCells.Исправлено`: определяет сетку с фиксированным количеством строк или столбцов.
 - `GridCells.FixedSize`: определяет сетку с максимально возможным количеством строк или столбцов при условии, что каждая ячейка занимает ровное пространство.
 
+Например, определим простейший грид из текстовых элементов:
+
+```kotlin
+val itemsList = (0..12).toList()
+LazyHorizontalGrid(
+    rows = GridCells.Fixed(3),
+    modifier = Modifier.fillMaxSize()
+) {
+    items(itemsList) {item ->
+        Text(
+	        text = "Item $item", 
+	        fontSize = 28.sp,
+	        modifier= Modifier
+		        .padding(8.dp)
+	    )
+    }
+}
+```
+![[]]
+
+##### LazyVerticalGrid
+`LazyVerticalGrid` отображает элементы в вертикально прокручиваемом контейнере, распределенном по нескольким столбцам, и имеет следующие параметры:
+
+```kotlin
+@Composable
+fun LazyVerticalGrid(
+    columns: GridCells,
+    modifier: Modifier = Modifier,
+    state: LazyGridState = rememberLazyGridState(),
+    contentPadding: PaddingValues = PaddingValues(0.dp),
+    reverseLayout: Boolean = false,
+    verticalArrangement: Arrangement.Vertical = if (!reverseLayout) Arrangement.Top else Arrangement.Bottom,
+    horizontalArrangement: Arrangement.Horizontal = Arrangement.Start,
+    flingBehavior: FlingBehavior = ScrollableDefaults.flingBehavior(),
+    userScrollEnabled: Boolean = true,
+    content: LazyGridScope.() -> Unit
+)
+```
+
+- `columns`: представляет объект `GridCells`, который описывает количество и размер столбцов
+- `modifier`: применяемые к контейнеру модификаторы
+- `state`: объект состояния `LazyGridState`, применяемый для управления состоянием контейнера
+- `contentPadding`: отступы вокруг содержимого
+- `reverseLayout`: при значении `true` располагает элементы в обратном порядке
+- `verticalArrangement`: настройки расположения элементов по вертикали
+- `horizontalArrangement`: выравнивание элементов по горизонтали
+- `flingBehavior`: описывает поведение при таком типе прокрутки, когда пользователь быстро перетаскивает что-то и поднимает палец. Представляет объект `FlingBehavior`
+- `userScrollEnabled`: указывает, доступна ли прокрутка жестами либо через специальные инструменты управления доступом
+- `content`: устанавливает содержимое контейнера с помощью функции типа `LazyGridScope.() -> Unit`.
+
+`LazyVerticalGrid` во многом аналогичен `LazyHorizontalGrid`.
