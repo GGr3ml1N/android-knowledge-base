@@ -1,6 +1,6 @@
-1. Обычный броадкаст. Для отправки броадкаст сообщения используется метод **sendBroadcast(intent: Intent)**. **Intent** может явно определять ресивер, который получит сообщение:
+1. Обычный броадкаст. Для отправки броадкаст сообщения используется метод `sendBroadcast(intent: Intent)`. `Intent` может явно определять ресивер, который получит сообщение:
 
-```
+```kotlin
 val intent = Intent(MyBroadcastReceiver::class.java) 
 context.sendBroadcast(intent)
 ```
@@ -11,7 +11,7 @@ context.sendBroadcast(intent)
 
    
    
-```
+```kotlin
 val intent = Intent("my_custom_action")
 context.sendBroadcast(intent)
 ```
@@ -19,7 +19,7 @@ context.sendBroadcast(intent)
 <div style="margin-left: 25px;">Этот интент получит ресивер, содержащий **my_custom_action** в **IntentFilter**. Пример такого ресивера.
 Когда отправляется обычный броадкаст, порядок получения сообщений не определен. Ресиверы не могут изменять сообщение или останавливать броадкаст.</div>
 
-2. Упорядоченный броадкаст. Отправляется методом sendOrderedBroadcast(intent: Intent, permission: String). Сообщение принимается в порядке, заданном атрибутом priority объекта IntentFilter. Ресиверы с одинаковым приоритетом получают сообщение в произвольном порядке.
+2. Упорядоченный броадкаст. Отправляется методом `sendOrderedBroadcast(intent: Intent, permission: String)`. Сообщение принимается в порядке, заданном атрибутом priority объекта `IntentFilter`. Ресиверы с одинаковым приоритетом получают сообщение в произвольном порядке.
 
 <div style="margin-left: 25px;">Когда отправляется упорядоченный броадкаст, ресиверы могут передавать данные (result сode / result data / result extras) следующим ресиверам или останавливать отправку.
 Упорядоченные броадкасты разберем подробнее в следующих постах.</div>
