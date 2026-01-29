@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "theory/android/jetpack compose/container/LazyColumn, LazyRow.md",
+                "file": "theory/android/jetpack compose/container/Grid.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "LazyColumn, LazyRow"
+              "title": "Grid"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "theory/android/jetpack compose/container/LazyColumn, LazyRow.md",
+                "file": "theory/android/jetpack compose/container/Grid.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Обратные ссылки для LazyColumn, LazyRow"
+              "title": "Обратные ссылки для Grid"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "theory/android/jetpack compose/container/LazyColumn, LazyRow.md",
+                "file": "theory/android/jetpack compose/container/Grid.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Исходящие ссылки из LazyColumn, LazyRow"
+              "title": "Исходящие ссылки из Grid"
             }
           },
           {
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "theory/android/jetpack compose/container/LazyColumn, LazyRow.md",
+                "file": "theory/android/jetpack compose/container/Grid.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Структура LazyColumn, LazyRow"
+              "title": "Структура Grid"
             }
           },
           {
@@ -197,8 +197,9 @@
   },
   "active": "182fc3414eac3122",
   "lastOpenFiles": [
-    "theory/android/jetpack compose/container/Surface.md",
     "theory/android/jetpack compose/container/LazyColumn, LazyRow.md",
+    "theory/android/jetpack compose/container/Grid.md",
+    "theory/android/jetpack compose/container/Surface.md",
     "theory/android/jetpack compose/container/Container compositions.md",
     "resources/simple_list.png",
     "theory/android/jetpack compose/container/!Container.md",
@@ -228,7 +229,6 @@
     "theory/android/Android.md",
     "theory/kotlin/basics of kotlin/Sealed classes.md",
     "theory/kotlin/Kotlin.md",
-    "theory/java/Java.md",
     "theory/android/jetpack compose/container",
     "theory/android/jetpack compose/modifier",
     "theory/android/jetpack compose",
