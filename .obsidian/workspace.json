@@ -197,6 +197,8 @@
   },
   "active": "182fc3414eac3122",
   "lastOpenFiles": [
+    "resources/fixed_vertical_grid.png",
+    "resources/Не подтверждено 998.~",
     "resources/lazy_vertical_grid.png",
     "resources/lazy_horizontal_grid.png",
     "theory/android/jetpack compose/container/Grid.md",
@@ -238,7 +240,6 @@
     "theory/android/android components/activity",
     "theory/android/android components/broadcast receiver",
     "theory/android/android components",
-    "theory/android",
-    "theory/kotlin/basics of kotlin"
+    "theory/android"
   ]
 }

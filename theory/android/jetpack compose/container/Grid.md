@@ -93,6 +93,8 @@ fun LazyVerticalGrid(
 `LazyVerticalGrid` во многом аналогичен `LazyHorizontalGrid`.
 
 ```kotlin
+data class Language(val name:String, val hexColor: Long)
+
 val langs = listOf(
 	Language("Kotlin", 0xff16a085),
     Language("Java", 0xff2980b9),
@@ -130,4 +132,49 @@ LazyVerticalGrid(
 }
 ```
 ![[lazy_vertical_grid.png]]
+
+##### Адаптивные размеры
+
+В примерах выше применялось точное количество строк/столбцов. Для этого использовался метод `GridCells.Fixed()`, в который передавалось количество строк/столбцов. Теперь рассмотрим другие возможности установки размеров. Так, метод `GridCells.Adaptive()`. Он определяет сетку с максимально возможным количеством строк или столбцов при условии, что каждая ячейка имеет как минимум размер `minSize` и все дополнительное пространство распределено равномерно. Значение `minSize`, которе указывает на минимаьную высоту строки или минимальную ширину столбца, передается в метод `GridCells.Adaptive()` в качестве единственного параметра.
+
+```kotlin
+data class Language(val name:String, val hexColor: Long)
+
+val langs = listOf(
+	Language("Kotlin", 0xff16a085),
+    Language("Java", 0xff2980b9),
+    Language("JavaScript", 0xff8e44ad),
+    Language("Python", 0xff2c3e50),
+    Language("Rust",0xffd35400),
+    Language("C#",0xff27ae60),
+    Language("C++",0xfff39c12),
+    Language("Go",0xff1abc9c)
+)
+LazyVerticalGrid(
+    columns = GridCells.Adaptive(minSize=120.dp),
+    modifier = Modifier.fillMaxSize(),
+    horizontalArrangement = Arrangement.Center
+) {
+    items(langs) {lang ->
+        Column(
+	        modifier = Modifier
+		        .padding(7.dp), 
+		    horizontalAlignment = Alignment
+		    .CenterHorizontally
+		) {
+			Box(
+               modifier = Modifier
+					.size(100.dp)
+					.background(Color(lang.hexColor))
+			)
+            Text(
+	            text = lang.name, 
+	            fontSize = 24.sp
+	        )
+        }
+    }
+}
+```
+
+![[fixed_vertical_grid.png]]
 
