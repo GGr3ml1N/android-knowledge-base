@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "theory/android/jetpack compose/container/Row.md",
+                "file": "theory/android/jetpack compose/container/Container compositions.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Row"
+              "title": "Container compositions"
             }
           }
         ]
@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "2347bcf6ddfa032b",
@@ -94,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "theory/android/jetpack compose/container/Row.md",
+                "file": "theory/android/jetpack compose/container/Container compositions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +105,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Обратные ссылки для Row"
+              "title": "Обратные ссылки для Container compositions"
             }
           },
           {
@@ -113,12 +114,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "theory/android/jetpack compose/container/Row.md",
+                "file": "theory/android/jetpack compose/container/Container compositions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Исходящие ссылки из Row"
+              "title": "Исходящие ссылки из Container compositions"
             }
           },
           {
@@ -156,13 +157,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "theory/android/jetpack compose/container/Row.md",
+                "file": "theory/android/jetpack compose/container/Container compositions.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Структура Row"
+              "title": "Структура Container compositions"
             }
           },
           {
@@ -197,10 +198,12 @@
   },
   "active": "182fc3414eac3122",
   "lastOpenFiles": [
+    "theory/android/jetpack compose/container/!Container.md",
+    "theory/android/jetpack compose/container/Container compositions.md",
+    "theory/android/jetpack compose/container/Row.md",
+    "resources/row.png",
     "resources/row_arrangement_visualization.gif",
     "2026-01-29.md",
-    "theory/android/jetpack compose/container/!Container.md",
-    "theory/android/jetpack compose/container/Row.md",
     "theory/android/jetpack compose/container/Column.md",
     "resources/column.png",
     "theory/android/android components/activity/Activity Lifecycle.md",
