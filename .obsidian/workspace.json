@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "theory/android/android components/activity/Activity Lifecycle.md",
-                "mode": "preview",
+                "file": "theory/android/jetpack compose/container/Column.md",
+                "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Activity Lifecycle"
+              "title": "Column"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "theory/android/android components/activity/Activity Lifecycle.md",
+                "file": "theory/android/jetpack compose/container/Column.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Обратные ссылки для Activity Lifecycle"
+              "title": "Обратные ссылки для Column"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "theory/android/android components/activity/Activity Lifecycle.md",
+                "file": "theory/android/jetpack compose/container/Column.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Исходящие ссылки из Activity Lifecycle"
+              "title": "Исходящие ссылки из Column"
             }
           },
           {
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "theory/android/android components/activity/Activity Lifecycle.md",
+                "file": "theory/android/jetpack compose/container/Column.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Структура Activity Lifecycle"
+              "title": "Структура Column"
             }
           },
           {
@@ -197,6 +197,8 @@
   },
   "active": "073fb47f0eab7ab6",
   "lastOpenFiles": [
+    "theory/android/android components/activity/Activity Lifecycle.md",
+    "resources/column_arrangement_visualization.gif",
     "theory/android/android components/activity/!Activity.md",
     "resources/activity_lifecycle.png",
     "theory/android/jetpack compose/container/Column.md",
@@ -223,7 +225,6 @@
     "theory/java/object-oriented programming/!Object-oriented programming.md",
     "theory/java/classes/Methods.md",
     "theory/java/classes/Method parameters.md",
-    "theory/java/classes/!Classes.md",
     "theory/android/jetpack compose/container",
     "theory/android/jetpack compose/modifier",
     "theory/android/jetpack compose",
