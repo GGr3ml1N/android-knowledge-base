@@ -58,7 +58,7 @@ LazyHorizontalGrid(
     }
 }
 ```
-![[]]
+![[lazy_horizontal_grid.png]]
 
 ##### LazyVerticalGrid
 `LazyVerticalGrid` отображает элементы в вертикально прокручиваемом контейнере, распределенном по нескольким столбцам, и имеет следующие параметры:
@@ -91,3 +91,43 @@ fun LazyVerticalGrid(
 - `content`: устанавливает содержимое контейнера с помощью функции типа `LazyGridScope.() -> Unit`.
 
 `LazyVerticalGrid` во многом аналогичен `LazyHorizontalGrid`.
+
+```kotlin
+val langs = listOf(
+	Language("Kotlin", 0xff16a085),
+    Language("Java", 0xff2980b9),
+    Language("JavaScript", 0xff8e44ad),
+    Language("Python", 0xff2c3e50),
+    Language("Rust",0xffd35400),
+    Language("C#",0xff27ae60),
+    Language("C++",0xfff39c12),
+    Language("Go",0xff1abc9c)
+)
+
+LazyVerticalGrid(
+    columns = GridCells.Fixed(2),
+    modifier = Modifier.fillMaxSize(),
+    horizontalArrangement = Arrangement.Center
+) {
+    items(langs) { lang ->
+        Column(
+	        modifier = Modifier
+				.padding(8.dp), 
+			horizontalAlignment = Alignment
+			.CenterHorizontally
+		) {
+            Box(
+	            mofidier = Modifier
+		            .size(100.dp)
+			        .background(Color(lang.hexColor)))
+            Text(
+	            text = lang.name, 
+		        fontSize = 24.sp,
+		        modifier = Modifier.padding(5.dp)
+		    )
+        }
+    }
+}
+```
+![[lazy_vertical_grid.png]]
+

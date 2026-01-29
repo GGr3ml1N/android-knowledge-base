@@ -197,6 +197,7 @@
   },
   "active": "182fc3414eac3122",
   "lastOpenFiles": [
+    "resources/lazy_vertical_grid.png",
     "resources/lazy_horizontal_grid.png",
     "theory/android/jetpack compose/container/Grid.md",
     "theory/android/jetpack compose/container/LazyColumn, LazyRow.md",
