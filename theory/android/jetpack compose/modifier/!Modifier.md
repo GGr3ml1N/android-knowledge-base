@@ -23,4 +23,4 @@ Modifier.модификатор1().модификатор2().модификат�
 
 Порядок модификаторов имеет значение
 
-See also: [[Color]], [[Setting the dimensions]], [[Padding]], [[Offset]], [[Scroll]], [[Border]], [[Clip]], [[Clickable]], [[Shadow]]
+See also: [[Color]], [[Setting the dimensions]], [[Padding]], [[Offset]], [[Scroll]], [[Border]], [[Clip]], [[Clickable]], [[Shadow]], [[IntrinsicSize]]

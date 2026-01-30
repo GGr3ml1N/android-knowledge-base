@@ -17,5 +17,4 @@ inline fun Layout(
 
 Создание своего алгоритма вычисления размеров компонентов внутри компонента-контейнера, должная компоновка вложенных компонентов представляют трудоемкую работу, поэтому фреймворк Compose предоставляет ряд встроенных компонентов-контейнеров, которые автоматически выполняют эту работу. Основными из них являются `Box`, `Row` и `Column`.
 
-See also: [[Box]], [[Column]], [[Row]], [[StaggeredGrid]], [[Container compositions]], [[LazyColumn, LazyRow]], [[Grid]], [[Surface]], [[FlowRow, FlowColumn]], [[IntrinsicSize]],
-[[Scrolling]]
+See also: [[Box]], [[Column]], [[Row]], [[StaggeredGrid]], [[LazyColumn, LazyRow]], [[Grid]], [[Surface]], [[FlowRow, FlowColumn]]
