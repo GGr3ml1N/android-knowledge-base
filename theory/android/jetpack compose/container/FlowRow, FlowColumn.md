@@ -69,8 +69,31 @@ fun FlowColumn(
 - `modifier`: применяемые к компоненту функции модификатора.
 - `horizontalArrangement`: расположение вложенных компонентов по горизонтали.
 - `verticalArrangement`: расположение вложенных компонентов по вертикали.
-maxItemsInEachColumn: максимальное количество элементов в столбце
-maxLines: максимальное количество строк
-overflow: принцип переноса элементов
-content: содержимое контейнера
+- `maxItemsInEachColumn`: максимальное количество элементов в столбце
+- `maxLines`: максимальное количество строк
+- `overflow`: принцип переноса элементов
+- `content`: содержимое контейнера
+
+```kotlin
+val rects = listOf(
+    Rect(50f,0xff16a085), Rect(100f,0xff8e44ad),
+    Rect(75f,0xff2980b9), Rect(125f,0xff2c3e50),
+    Rect(100f,0xfff39c12), Rect(75f,0xff27ae60),
+    Rect(50f,0xffd35400), Rect(110f,0xfff6b93b),
+    Rect(100f,0xff0a3d62), Rect(75f,0xffb71540)
+)
+FlowColumn(
+	modifier = Modifier.fillMaxSize(), 
+	maxItemsInEachColumn = 4
+) {
+    rects.forEach {rect ->
+        Box(
+	        modifier = Modifier
+		        .size(100.dp, Dp(rect.height))
+		        .padding(5.dp)
+		        .background(Color(rect.hexColor))
+        )
+    }
+}
+```
 
