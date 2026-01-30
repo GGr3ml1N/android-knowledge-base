@@ -233,4 +233,4 @@ LazyVerticalGrid(
 
 ![[fixed_vertical_grid_h.png]]
 
-See also: [[Sticky header]]
+See also: [[Sticky header]], [[Scroll state]]

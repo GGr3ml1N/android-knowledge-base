@@ -109,3 +109,5 @@ LazyHorizontalStaggeredGrid(
 }
 ```
 ![[staggered_grid_horizontal.png]]
+
+See also: [[Sticky header]], [[Scroll state]]

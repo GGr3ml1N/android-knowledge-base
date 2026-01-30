@@ -72,4 +72,4 @@ LazyRow {
 }
 ```
 
-See also: [[Sticky header]]
+See also: [[Sticky header]], [[Scroll state]]
