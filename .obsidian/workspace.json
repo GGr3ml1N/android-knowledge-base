@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "theory/android/jetpack compose/container/FlowRow, FlowColumn.md",
+                "file": "theory/android/jetpack compose/container/IntrinsicSize.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "FlowRow, FlowColumn"
+              "title": "IntrinsicSize"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "theory/android/jetpack compose/container/FlowRow, FlowColumn.md",
+                "file": "theory/android/jetpack compose/container/IntrinsicSize.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Обратные ссылки для FlowRow, FlowColumn"
+              "title": "Обратные ссылки для IntrinsicSize"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "theory/android/jetpack compose/container/FlowRow, FlowColumn.md",
+                "file": "theory/android/jetpack compose/container/IntrinsicSize.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Исходящие ссылки из FlowRow, FlowColumn"
+              "title": "Исходящие ссылки из IntrinsicSize"
             }
           },
           {
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "theory/android/jetpack compose/container/FlowRow, FlowColumn.md",
+                "file": "theory/android/jetpack compose/container/IntrinsicSize.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Структура FlowRow, FlowColumn"
+              "title": "Структура IntrinsicSize"
             }
           },
           {
@@ -196,11 +196,12 @@
   },
   "active": "182fc3414eac3122",
   "lastOpenFiles": [
+    "theory/android/jetpack compose/container/FlowRow, FlowColumn.md",
+    "theory/android/jetpack compose/container/IntrinsicSize.md",
     "resources/flow_column.png",
     "resources/flow_row.png",
     "theory/android/jetpack compose/container/!Container.md",
     "theory/android/jetpack compose/container/StaggeredGrid.md",
-    "theory/android/jetpack compose/container/FlowRow, FlowColumn.md",
     "resources/staggered_grid_horizontal.png",
     "resources/staggered_grid_vertical.png",
     "theory/android/jetpack compose/container/Grid.md",
@@ -214,7 +215,6 @@
     "theory/android/jetpack compose/container/LazyColumn, LazyRow.md",
     "theory/android/jetpack compose/container/Surface.md",
     "theory/android/jetpack compose/container/Container compositions.md",
-    "resources/simple_list.png",
     "theory/android/jetpack compose/container/Row.md",
     "2026-01-29.md",
     "theory/android/jetpack compose/container/Column.md",
