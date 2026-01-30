@@ -15,7 +15,7 @@
               "state": {
                 "file": "theory/android/jetpack compose/container/StaggeredGrid.md",
                 "mode": "source",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
               "title": "StaggeredGrid"
@@ -196,6 +196,7 @@
   },
   "active": "182fc3414eac3122",
   "lastOpenFiles": [
+    "resources/staggered_grid_horizontal.png",
     "resources/staggered_grid_vertical.png",
     "theory/android/jetpack compose/container/StaggeredGrid.md",
     "theory/android/jetpack compose/container/Grid.md",
