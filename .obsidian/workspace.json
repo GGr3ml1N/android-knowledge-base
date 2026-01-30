@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "theory/android/jetpack compose/container/Grid.md",
-                "mode": "preview",
-                "source": true
+                "file": "theory/android/jetpack compose/container/StaggeredGrid.md",
+                "mode": "source",
+                "source": false
               },
               "icon": "lucide-file",
-              "title": "Grid"
+              "title": "StaggeredGrid"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "theory/android/jetpack compose/container/Grid.md",
+                "file": "theory/android/jetpack compose/container/StaggeredGrid.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Обратные ссылки для Grid"
+              "title": "Обратные ссылки для StaggeredGrid"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "theory/android/jetpack compose/container/Grid.md",
+                "file": "theory/android/jetpack compose/container/StaggeredGrid.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Исходящие ссылки из Grid"
+              "title": "Исходящие ссылки из StaggeredGrid"
             }
           },
           {
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "theory/android/jetpack compose/container/Grid.md",
+                "file": "theory/android/jetpack compose/container/StaggeredGrid.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Структура Grid"
+              "title": "Структура StaggeredGrid"
             }
           },
           {
@@ -196,11 +196,13 @@
   },
   "active": "182fc3414eac3122",
   "lastOpenFiles": [
+    "resources/staggered_grid_vertical.png",
+    "theory/android/jetpack compose/container/StaggeredGrid.md",
+    "theory/android/jetpack compose/container/Grid.md",
     "resources/fixed_vertical_grid.png",
     "resources/fixed_vertical_grid_h.png",
     "resources/adaptive_vertical_grid_h.png",
     "resources/adaptive_vertical_grid.png",
-    "theory/android/jetpack compose/container/Grid.md",
     "resources/Не подтверждено 998.~",
     "resources/lazy_vertical_grid.png",
     "resources/lazy_horizontal_grid.png",
@@ -214,9 +216,7 @@
     "resources/row_arrangement_visualization.gif",
     "2026-01-29.md",
     "theory/android/jetpack compose/container/Column.md",
-    "resources/column.png",
     "theory/android/android components/activity/Activity Lifecycle.md",
-    "resources/column_arrangement_visualization.gif",
     "theory/android/android components/activity/!Activity.md",
     "theory/android/jetpack compose/Jetpack Compose.md",
     "theory/android/jetpack compose/container/Box.md",
@@ -232,7 +232,6 @@
     "theory/kotlin/basics of kotlin/Data classes.md",
     "theory/kotlin/basics of kotlin/!Basics of Kotlin.md",
     "theory/android/Android.md",
-    "theory/kotlin/basics of kotlin/Sealed classes.md",
     "theory/android/jetpack compose/container",
     "theory/android/jetpack compose/modifier",
     "theory/android/jetpack compose",
