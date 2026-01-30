@@ -196,6 +196,7 @@
   },
   "active": "182fc3414eac3122",
   "lastOpenFiles": [
+    "resources/flow_column.png",
     "resources/flow_row.png",
     "theory/android/jetpack compose/container/!Container.md",
     "theory/android/jetpack compose/container/StaggeredGrid.md",
@@ -215,7 +216,6 @@
     "theory/android/jetpack compose/container/Container compositions.md",
     "resources/simple_list.png",
     "theory/android/jetpack compose/container/Row.md",
-    "resources/row.png",
     "2026-01-29.md",
     "theory/android/jetpack compose/container/Column.md",
     "theory/android/android components/activity/Activity Lifecycle.md",

@@ -75,6 +75,8 @@ fun FlowColumn(
 - `content`: содержимое контейнера
 
 ```kotlin
+data class Rect(val height: Float, val hexColor: Long)
+
 val rects = listOf(
     Rect(50f,0xff16a085), Rect(100f,0xff8e44ad),
     Rect(75f,0xff2980b9), Rect(125f,0xff2c3e50),
@@ -96,4 +98,9 @@ FlowColumn(
     }
 }
 ```
+![[flow_column.png]]
+
+Стоит отметить, что если элементов много, то какая-то часть `FlowRow/FlowColumn` окажется вне области обзора, соответственно для просмотра невидимой части следует использовать прокрутку. По умолчанию для `FlowRow/FlowColumn` прокрутка автоматически не создается. Нам самим надо определять прокрутку, например, с помощью модификатора `Modifier.horizontalScroll()` (для `FlowColumn`) или `verticalScroll()` (для `FlowRow`)
+
+
 
