@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TOREAD.md",
+                "file": "theory/android/jetpack compose/container/IntrinsicSize.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "TOREAD"
+              "title": "IntrinsicSize"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TOREAD.md",
+                "file": "theory/android/jetpack compose/container/IntrinsicSize.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Обратные ссылки для TOREAD"
+              "title": "Обратные ссылки для IntrinsicSize"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TOREAD.md",
+                "file": "theory/android/jetpack compose/container/IntrinsicSize.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Исходящие ссылки из TOREAD"
+              "title": "Исходящие ссылки из IntrinsicSize"
             }
           },
           {
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TOREAD.md",
+                "file": "theory/android/jetpack compose/container/IntrinsicSize.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Структура TOREAD"
+              "title": "Структура IntrinsicSize"
             }
           },
           {
@@ -196,8 +196,8 @@
   },
   "active": "182fc3414eac3122",
   "lastOpenFiles": [
-    "theory/android/jetpack compose/container/IntrinsicSize.md",
     "TOREAD.md",
+    "theory/android/jetpack compose/container/IntrinsicSize.md",
     "resources/intrinsic_sample_3.png",
     "resources/intrinsic_sample_2.png",
     "resources/intrinsic_sample_1.png",
