@@ -11,10 +11,14 @@
             "id": "182fc3414eac3122",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Граф"
+              "type": "markdown",
+              "state": {
+                "file": "theory/android/jetpack compose/container/FlowRow, FlowColumn.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "FlowRow, FlowColumn"
             }
           }
         ]
@@ -90,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "theory/android/jetpack compose/container/FlowRow, FlowColumn.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Обратные ссылки"
+              "title": "Обратные ссылки для FlowRow, FlowColumn"
             }
           },
           {
@@ -108,11 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "theory/android/jetpack compose/container/FlowRow, FlowColumn.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Исходящие ссылки"
+              "title": "Исходящие ссылки из FlowRow, FlowColumn"
             }
           },
           {
@@ -150,12 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "theory/android/jetpack compose/container/FlowRow, FlowColumn.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Структура"
+              "title": "Структура FlowRow, FlowColumn"
             }
           },
           {
@@ -189,6 +196,7 @@
   },
   "active": "182fc3414eac3122",
   "lastOpenFiles": [
+    "resources/flow_row.png",
     "theory/android/jetpack compose/container/!Container.md",
     "theory/android/jetpack compose/container/StaggeredGrid.md",
     "theory/android/jetpack compose/container/FlowRow, FlowColumn.md",
@@ -225,7 +233,6 @@
     "theory/android/jetpack compose/modifier/Color.md",
     "theory/kotlin/basics of kotlin/Data classes.md",
     "theory/kotlin/basics of kotlin/!Basics of Kotlin.md",
-    "theory/android/Android.md",
     "theory/android/jetpack compose/container",
     "theory/android/jetpack compose/modifier",
     "theory/android/jetpack compose",
