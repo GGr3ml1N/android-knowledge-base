@@ -20,3 +20,68 @@ Column(modifier = modifier.width(IntrinsicSize.Max)) {
 
 Таким образом, используя `IntrinsicSize` контейнеры устанавливают свой размер в соответствии с требованиями к пространству их дочерних элементов, что особенно может быть полезно, когда один или несколько дочерних элементов подвергаются динамическим изменениям размера.
 
+```kotlin
+Column(
+	modifier = Modifier.padding(5.dp)
+) {
+    Text(
+	    text = "Hello METANIT.COM", 
+	    modifier = Modifier.padding(start = 4.dp), 
+		    fontSize = 28.sp
+	)
+    Box(
+	    modifier = Modifier
+		    .height(10.dp)
+		    .fillMaxWidth()
+		    .background(Color.Blue)
+    )
+}
+```
+![[intrinsic_sample_1.png]]
+
+`Box` под текстом по ширине не соответствует тексту, так как столбец растягивается по всей ширине экрана. Мы могли бы установить для столбца точную ширину, подогнав ее под длину текста, но в этом случае при динамическом изменении текста у нас опять же были бы проблемы с размерами. И поэтому теперь применим `IntrinsicSize.Max`:
+
+```kotlin
+Column(
+	modifier = Modifier
+		.padding(5.dp)
+		.width(IntrinsicSize.Max)
+) {
+    Text(
+	    text = "Hello METANIT.COM", 
+	    modifier = Modifier.padding(start = 4.dp), 
+		    fontSize = 28.sp
+	)
+    Box(
+	    modifier = Modifier
+		    .height(10.dp)
+		    .fillMaxWidth()
+		    .background(Color.Blue)
+    )
+}
+```
+Теперь благодаря установке для ширины столбца значения IntrinsicSize.Max этот столбец занимает ровно ту ширину, которая необходима для его содержимого:
+
+![[intrinsic_sample_2.png]]
+
+Однако компонент `Text` также может отображать многострочный текст. Это означает, что один и тот же текст потенциально может быть размещен в нескольких строках, что значительно уменьшит ширину, необходимую для отображения этого текста. Минимальная ширина (если нет других ограничений по высоте) компонента `Text` может соответствовать длине его самого длинного слова. Это значение соответствует значению `IntrinsicSize.Min`:
+
+```kotlin
+Column(
+	modifier = Modifier
+		.padding(5.dp)
+		.width(IntrinsicSize.Min)
+) {
+    Text(
+	    text = "Hello METANIT.COM", 
+	    modifier = Modifier.padding(start = 4.dp), 
+		    fontSize = 28.sp
+	)
+    Box(
+	    modifier = Modifier
+		    .height(10.dp)
+		    .fillMaxWidth()
+		    .background(Color.Blue)
+    )
+}
+```
