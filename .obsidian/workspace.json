@@ -196,6 +196,7 @@
   },
   "active": "182fc3414eac3122",
   "lastOpenFiles": [
+    "resources/intrinsic_sample_3.png",
     "resources/intrinsic_sample_2.png",
     "resources/intrinsic_sample_1.png",
     "theory/android/jetpack compose/container/IntrinsicSize.md",
@@ -212,7 +213,6 @@
     "resources/adaptive_vertical_grid_h.png",
     "resources/adaptive_vertical_grid.png",
     "resources/Не подтверждено 998.~",
-    "resources/lazy_vertical_grid.png",
     "theory/android/jetpack compose/container/LazyColumn, LazyRow.md",
     "theory/android/jetpack compose/container/Surface.md",
     "theory/android/jetpack compose/container/Container compositions.md",

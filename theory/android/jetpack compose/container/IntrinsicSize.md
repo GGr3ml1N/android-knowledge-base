@@ -85,3 +85,7 @@ Column(
     )
 }
 ```
+
+![[intrinsic_sample_3.png]]
+
+
