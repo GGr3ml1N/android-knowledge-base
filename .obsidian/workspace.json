@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "theory/android/jetpack compose/container/Scrolling.md",
+                "file": "theory/android/jetpack compose/container/Sticky header.md",
                 "mode": "source",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
-              "title": "Scrolling"
+              "title": "Sticky header"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "theory/android/jetpack compose/container/Scrolling.md",
+                "file": "theory/android/jetpack compose/container/Sticky header.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Обратные ссылки для Scrolling"
+              "title": "Обратные ссылки для Sticky header"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "theory/android/jetpack compose/container/Scrolling.md",
+                "file": "theory/android/jetpack compose/container/Sticky header.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Исходящие ссылки из Scrolling"
+              "title": "Исходящие ссылки из Sticky header"
             }
           },
           {
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "theory/android/jetpack compose/container/Scrolling.md",
+                "file": "theory/android/jetpack compose/container/Sticky header.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Структура Scrolling"
+              "title": "Структура Sticky header"
             }
           },
           {
@@ -197,6 +197,8 @@
   "active": "182fc3414eac3122",
   "lastOpenFiles": [
     "theory/android/jetpack compose/container/Scrolling.md",
+    "theory/android/jetpack compose/container/Sticky header.md",
+    "resources/column_scroll.png",
     "theory/android/jetpack compose/container/!Container.md",
     "theory/android/jetpack compose/container/IntrinsicSize.md",
     "TOREAD.md",
@@ -212,7 +214,6 @@
     "theory/android/jetpack compose/container/Grid.md",
     "resources/fixed_vertical_grid.png",
     "resources/fixed_vertical_grid_h.png",
-    "resources/adaptive_vertical_grid_h.png",
     "resources/Не подтверждено 998.~",
     "theory/android/jetpack compose/container/LazyColumn, LazyRow.md",
     "theory/android/jetpack compose/container/Surface.md",
@@ -232,7 +233,6 @@
     "theory/android/jetpack compose/modifier/Clip.md",
     "theory/android/jetpack compose/modifier/Border.md",
     "theory/android/jetpack compose/modifier/Scroll.md",
-    "theory/android/jetpack compose/modifier/Color.md",
     "theory/android/jetpack compose/container",
     "theory/android/jetpack compose/modifier",
     "theory/android/jetpack compose",

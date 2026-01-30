@@ -18,13 +18,48 @@ val coroutineScope = rememberCoroutineScope()
 
 Column(Modifier.verticalScroll(scrollState)) {
 	Text(
-		text = "В конец", Modifier.padding(8.dp).background(Color.DarkGray).padding(5.dp).clickable {
-                    coroutineScope.launch() {
-                        scrollState.animateScrollTo(scrollState.maxValue)
-                    }
-                }, fontSize = 28.sp, color = Color.White)
-                repeat(20){
-                    Text("Item $it", Modifier.padding(8.dp), fontSize = 28.sp)
+		text = "В конец",
+		modifier = Modifier
+			.padding(8.dp)
+			.background(Color.DarkGray)
+			.padding(5.dp)
+			.clickable {
+                coroutineScope.launch() {
+                    scrollState.animateScrollTo(scrollState.maxValue)
                 }
-            }
+            }, 
+        fontSize = 28.sp, 
+        color = Color.White
+    )
+    repeat(20){
+        Text(
+	        text = "Item $it", 
+	        modifier = Modifier.padding(8.dp), 
+		    fontSize = 28.sp)
+    }
+}
 ```
+
+В начале контейнера Column здесь определен компонент Text, по нажатию на который вызывается корутина, которая выполняет функцию `scrollState.animateScrollTo()`
+
+![[column_scroll.png]]
+
+##### LazyColumn и LazyRow
+Для программной прокрутки списков LazyColumn и LazyRow применяются функции объекта LazyListState, который можно получить с помощью вызова функции rememberLazyListState():
+
+```kotlin
+val listState = rememberLazyListState()
+```
+
+Затем этои объект передается параметру state:
+
+```kotlin
+LazyColumn(state = listState....
+```
+
+Для собственно прокрутки вызываются следующие методы LazyListState:
+
+- `animateScrollToItem(index: Int)` — плавная прокрутка к указанному элементу списка (где 0 — первый элемент)
+- `scrollToItem(index: Int)` — мгновенная прокрутка к указанному элементу списка (где 0 — первый элемент)
+
+Это тоже suspend-функции, которые должны запускаться из корутин.
