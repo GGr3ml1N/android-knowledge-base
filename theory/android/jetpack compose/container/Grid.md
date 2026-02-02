@@ -232,5 +232,3 @@ LazyVerticalGrid(
 Тогда как при горизонтальной ориентации будет создаваться 4 столбца
 
 ![[fixed_vertical_grid_h.png]]
-
-See also: [[Sticky header]], [[Scroll state]]

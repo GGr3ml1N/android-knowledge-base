@@ -11,14 +11,10 @@
             "id": "182fc3414eac3122",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "IDP.md",
-                "mode": "preview",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "IDP"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Граф"
             }
           }
         ]
@@ -94,7 +90,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "IDP.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +99,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Обратные ссылки для IDP"
+              "title": "Обратные ссылки"
             }
           },
           {
@@ -113,12 +108,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "IDP.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Исходящие ссылки из IDP"
+              "title": "Исходящие ссылки"
             }
           },
           {
@@ -156,13 +150,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "IDP.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Структура IDP"
+              "title": "Структура"
             }
           },
           {
@@ -208,17 +201,18 @@
   },
   "active": "182fc3414eac3122",
   "lastOpenFiles": [
-    "IDP.md",
-    "theory/android/jetpack compose/container/FlowRow, FlowColumn.md",
-    "theory/android/jetpack compose/container/LazyColumn, LazyRow.md",
+    "theory/android/jetpack compose/container/!Container.md",
     "theory/android/jetpack compose/container/Row.md",
-    "theory/android/jetpack compose/container/StaggeredGrid.md",
     "theory/android/jetpack compose/container/Grid.md",
-    "theory/android/jetpack compose/container/Scroll state.md",
-    "theory/android/jetpack compose/container/Surface.md",
+    "theory/android/jetpack compose/container/LazyColumn, LazyRow.md",
+    "theory/android/jetpack compose/container/StaggeredGrid.md",
     "theory/android/jetpack compose/container/Column.md",
     "theory/android/jetpack compose/container/Box.md",
-    "theory/android/jetpack compose/container/!Container.md",
+    "theory/android/jetpack compose/container/Surface.md",
+    "theory/android/Android.md",
+    "IDP.md",
+    "theory/android/jetpack compose/container/FlowRow, FlowColumn.md",
+    "theory/android/jetpack compose/container/Scroll state.md",
     "theory/android/jetpack compose/container/Container compositions.md",
     "theory/android/jetpack compose/modifier/Scroll.md",
     "theory/android/jetpack compose/modifier/!Modifier.md",
@@ -244,7 +238,6 @@
     "theory/android/android components/broadcast receiver/Methods for sending broadcast.md",
     "theory/android/jetpack compose/modifier/Clickable.md",
     "theory/android/jetpack compose/modifier/Shadow.md",
-    "theory/android/jetpack compose/modifier/Clip.md",
     "theory/android/jetpack compose/container",
     "theory/android/jetpack compose/modifier",
     "theory/android/jetpack compose",

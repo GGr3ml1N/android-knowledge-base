@@ -71,5 +71,3 @@ LazyRow {
     items(langs) {lang -> Text(lang)}
 }
 ```
-
-See also: [[Sticky header]], [[Scroll state]]
