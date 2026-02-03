@@ -11,10 +11,14 @@
             "id": "182fc3414eac3122",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Граф"
+              "type": "markdown",
+              "state": {
+                "file": "IDP.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "IDP"
             }
           }
         ]
@@ -74,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 330.5
   },
   "right": {
     "id": "2347bcf6ddfa032b",
@@ -90,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "IDP.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Обратные ссылки"
+              "title": "Обратные ссылки для IDP"
             }
           },
           {
@@ -108,11 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "IDP.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Исходящие ссылки"
+              "title": "Исходящие ссылки из IDP"
             }
           },
           {
@@ -150,12 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "IDP.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Структура"
+              "title": "Структура IDP"
             }
           },
           {
@@ -201,6 +208,7 @@
   },
   "active": "182fc3414eac3122",
   "lastOpenFiles": [
+    "IDP.md",
     "theory/android/jetpack compose/container/!Container.md",
     "theory/android/jetpack compose/container/Row.md",
     "theory/android/jetpack compose/container/Grid.md",
@@ -210,7 +218,6 @@
     "theory/android/jetpack compose/container/Box.md",
     "theory/android/jetpack compose/container/Surface.md",
     "theory/android/Android.md",
-    "IDP.md",
     "theory/android/jetpack compose/container/FlowRow, FlowColumn.md",
     "theory/android/jetpack compose/container/Scroll state.md",
     "theory/android/jetpack compose/container/Container compositions.md",
