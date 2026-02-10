@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "IDP.md",
+                "file": "theory/android/android components/activity/Activity Lifecycle.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "IDP"
+              "title": "Activity Lifecycle"
             }
           }
         ]
@@ -190,7 +190,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -207,8 +208,8 @@
   },
   "active": "182fc3414eac3122",
   "lastOpenFiles": [
-    "TOREAD.md",
     "IDP.md",
+    "TOREAD.md",
     "theory/android/jetpack compose/container/Sticky header.md",
     "theory/android/jetpack compose/lifecycle/Lifecycle of composables.md",
     "resources/lifecycle-composition.png",
