@@ -5,7 +5,7 @@
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": true,
+  "collapse-color-groups": false,
   "colorGroups": [
     {
       "query": "path:\"theory/android/android components/broadcast receiver\"  ",
@@ -123,6 +123,6 @@
   "repelStrength": 18.3498263888889,
   "linkStrength": 1,
   "linkDistance": 30,
-  "scale": 0.5269666304746262,
-  "close": true
+  "scale": 0.567383960125984,
+  "close": false
 }
