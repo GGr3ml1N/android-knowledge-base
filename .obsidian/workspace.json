@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "theory/android/android components/activity/Activity Lifecycle.md",
+                "file": "theory/android/jetpack compose/modifier/Setting the dimensions.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Activity Lifecycle"
+              "title": "Setting the dimensions"
             }
           }
         ]
@@ -208,6 +208,16 @@
   },
   "active": "182fc3414eac3122",
   "lastOpenFiles": [
+    "theory/android/jetpack compose/modifier/Scroll.md",
+    "theory/android/jetpack compose/modifier/Padding.md",
+    "theory/android/jetpack compose/modifier/Offset.md",
+    "theory/android/jetpack compose/modifier/IntrinsicSize.md",
+    "theory/android/jetpack compose/modifier/Color.md",
+    "theory/android/jetpack compose/modifier/Clip.md",
+    "theory/android/jetpack compose/modifier/Clickable.md",
+    "theory/android/jetpack compose/modifier/Border.md",
+    "theory/android/jetpack compose/modifier/!Modifier.md",
+    "theory/android/android components/activity/Activity Lifecycle.md",
     "IDP.md",
     "TOREAD.md",
     "theory/android/jetpack compose/container/Sticky header.md",
@@ -226,13 +236,8 @@
     "theory/android/jetpack compose/container/Surface.md",
     "theory/android/Android.md",
     "theory/android/jetpack compose/container/FlowRow, FlowColumn.md",
-    "theory/android/jetpack compose/container/Scroll state.md",
-    "theory/android/jetpack compose/container/Container compositions.md",
-    "theory/android/jetpack compose/modifier/Scroll.md",
-    "theory/android/jetpack compose/modifier/!Modifier.md",
     "resources/stiky_header.png",
     "resources/column_scroll.png",
-    "theory/android/jetpack compose/modifier/IntrinsicSize.md",
     "resources/intrinsic_sample_3.png",
     "resources/intrinsic_sample_2.png",
     "resources/intrinsic_sample_1.png",
@@ -241,10 +246,6 @@
     "resources/staggered_grid_horizontal.png",
     "resources/staggered_grid_vertical.png",
     "resources/Не подтверждено 998.~",
-    "2026-01-29.md",
-    "theory/android/android components/activity/Activity Lifecycle.md",
-    "theory/android/android components/activity/!Activity.md",
-    "theory/android/android components/service/!Service.md",
     "theory/android/jetpack compose/container",
     "theory/android/jetpack compose/modifier",
     "theory/android/jetpack compose",
