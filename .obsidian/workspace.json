@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "theory/android/jetpack compose/modifier/Setting the dimensions.md",
+                "file": "theory/kotlin/basics of kotlin/!Basics of Kotlin.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Setting the dimensions"
+              "title": "!Basics of Kotlin"
             }
           }
         ]
@@ -208,6 +208,13 @@
   },
   "active": "182fc3414eac3122",
   "lastOpenFiles": [
+    "theory/kotlin/basics of kotlin/Inline functions.md",
+    "theory/kotlin/basics of kotlin/!Basics of Kotlin.md",
+    "theory/kotlin/basics of kotlin/Data classes.md",
+    "theory/kotlin/Kotlin.md",
+    "theory/android/jetpack compose/modifier/!Modifier.md",
+    "IDP.md",
+    "theory/android/jetpack compose/modifier/Setting the dimensions.md",
     "theory/android/jetpack compose/modifier/Scroll.md",
     "theory/android/jetpack compose/modifier/Padding.md",
     "theory/android/jetpack compose/modifier/Offset.md",
@@ -216,9 +223,7 @@
     "theory/android/jetpack compose/modifier/Clip.md",
     "theory/android/jetpack compose/modifier/Clickable.md",
     "theory/android/jetpack compose/modifier/Border.md",
-    "theory/android/jetpack compose/modifier/!Modifier.md",
     "theory/android/android components/activity/Activity Lifecycle.md",
-    "IDP.md",
     "TOREAD.md",
     "theory/android/jetpack compose/container/Sticky header.md",
     "theory/android/jetpack compose/lifecycle/Lifecycle of composables.md",
@@ -231,11 +236,6 @@
     "theory/android/jetpack compose/container/Grid.md",
     "theory/android/jetpack compose/container/LazyColumn, LazyRow.md",
     "theory/android/jetpack compose/container/StaggeredGrid.md",
-    "theory/android/jetpack compose/container/Column.md",
-    "theory/android/jetpack compose/container/Box.md",
-    "theory/android/jetpack compose/container/Surface.md",
-    "theory/android/Android.md",
-    "theory/android/jetpack compose/container/FlowRow, FlowColumn.md",
     "resources/stiky_header.png",
     "resources/column_scroll.png",
     "resources/intrinsic_sample_3.png",
