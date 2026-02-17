@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "theory/kotlin/basics of kotlin/!Basics of Kotlin.md",
-                "mode": "preview",
-                "source": false
+                "file": "IDP.md",
+                "mode": "source",
+                "source": true
               },
               "icon": "lucide-file",
-              "title": "!Basics of Kotlin"
+              "title": "IDP"
             }
           }
         ]
@@ -186,12 +186,11 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -208,12 +207,12 @@
   },
   "active": "182fc3414eac3122",
   "lastOpenFiles": [
-    "theory/kotlin/basics of kotlin/Inline functions.md",
+    "IDP.md",
     "theory/kotlin/basics of kotlin/!Basics of Kotlin.md",
+    "theory/kotlin/basics of kotlin/Inline functions.md",
     "theory/kotlin/basics of kotlin/Data classes.md",
     "theory/kotlin/Kotlin.md",
     "theory/android/jetpack compose/modifier/!Modifier.md",
-    "IDP.md",
     "theory/android/jetpack compose/modifier/Setting the dimensions.md",
     "theory/android/jetpack compose/modifier/Scroll.md",
     "theory/android/jetpack compose/modifier/Padding.md",
