@@ -11,10 +11,14 @@
             "id": "182fc3414eac3122",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Граф"
+              "type": "markdown",
+              "state": {
+                "file": "tasks/leetcode/Two Sum.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Two Sum"
             }
           }
         ]
@@ -203,6 +207,8 @@
   },
   "active": "182fc3414eac3122",
   "lastOpenFiles": [
+    "tasks/leetcode",
+    "tasks/leetcode/Two Sum.md",
     "theory/android/jetpack compose/modifier/!Modifier.md",
     "theory/android/jetpack compose/modifier/Clip.md",
     "theory/android/jetpack compose/modifier/Clickable.md",
@@ -229,8 +235,6 @@
     "resources/lifecycle-composition.png",
     "theory/android/jetpack compose/lifecycle",
     "theory/android/jetpack compose/container/!Container.md",
-    "theory/android/jetpack compose/container/Row.md",
-    "theory/android/jetpack compose/container/Grid.md",
     "resources/stiky_header.png",
     "resources/column_scroll.png",
     "resources/intrinsic_sample_3.png",
