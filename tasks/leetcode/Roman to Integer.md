@@ -1,3 +1,4 @@
+### Задача
 Roman numerals are represented by seven different symbols: `I`, `V`, `X`, `L`, `C`, `D` and `M`.
 
 | **Symbol** | **Value** |
@@ -20,7 +21,7 @@ Roman numerals are usually written largest to smallest from left to right. Howev
 
 Given a roman numeral, convert it to an integer.
 
-Перевод:
+### Перевод:
 Римские цифры обозначаются семью различными символами: `I`, `V`, `X`, `L`, `C`, `D` и `M`.
 
 |**Символ**|**Значение**|
@@ -43,9 +44,104 @@ Given a roman numeral, convert it to an integer.
 
 Дано римское число — преобразуйте его в целое число.
 
-
+### Ответ 
+#### Заколхозил сам
 ```kotlin
+fun romanToInt(s: String): Int {
+    val chars = s.toList()
+    var tempInt = 0
+    s.indices.forEach up@{ i ->
+        (i + 1 until s.length).forEach { j ->
+            when (val char = chars[i]) {
+                'I' -> when (chars[j]) {
+                    'V', 'X' -> {
+                        tempInt += (char.digit * -1)
+                        return@up
+                    }
 
+                    else -> {
+                        tempInt += (char.digit)
+                        return@up
+                    }
+                }
+
+                'X' -> when (chars[j]) {
+                    'L', 'C' -> {
+                        tempInt += (char.digit * -1)
+                        return@up
+                    }
+
+                    else -> {
+                        tempInt += (char.digit)
+                        return@up
+                    }
+                }
+
+                'C' -> when (chars[j]) {
+                    'D', 'M' -> {
+                        tempInt += (char.digit * -1)
+                        return@up
+                    }
+
+                    else -> {
+                        tempInt += (char.digit)
+                        return@up
+                    }
+                }
+
+                else -> {
+                    tempInt += (char.digit)
+                    return@up
+                }
+            }
+        }
+    }
+    tempInt += (chars[chars.size - 1].digit)
+    return tempInt
+}
+
+val Char.digit: Int
+    get() = when (this) {
+        'I' -> 1
+        'V' -> 5
+        'X' -> 10
+        'L' -> 50
+        'C' -> 100
+        'D' -> 500
+        'M' -> 1000
+        else -> throw IllegalArgumentException()
+    }
 ```
 
+#### Как по красоте
+```kotlin
+fun romanToInt(s: String): Int {  
+    var result = 0  
+    var prevValue = 0  
+  
+    for (char in s.reversed()) {  
+        val currentValue = char.digit  
+        if (currentValue < prevValue) {  
+            result -= currentValue  
+        } else {  
+            result += currentValue  
+        }  
+        prevValue = currentValue  
+    }  
+  
+    return result  
+}  
+  
+val Char.digit: Int  
+    get() = when (this) {  
+        'I' -> 1  
+        'V' -> 5  
+        'X' -> 10  
+        'L' -> 50  
+        'C' -> 100  
+        'D' -> 500  
+        'M' -> 1000  
+        else -> throw IllegalArgumentException()  
+    }
+```
 #leetcode
