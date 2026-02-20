@@ -20,13 +20,3 @@ fun longestCommonPrefix(strings: Array<String>): String {
     return prefix  
 }
 ```
-
-##### Комментарий
-Задачка на leetcode отрабатывает как-то странно (а алгоритм не совсем корректный) : я задал следующий массив
-> \["flower","flow","flight", "professional", "profi", "pro"]
-
-И по идее должно вывестись
-> pro
-
-Но правильный ответ:
-> ""
