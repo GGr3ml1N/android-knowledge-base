@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "tasks/leetcode/Roman to Integer.md",
-                "mode": "preview",
+                "file": "tasks/leetcode/Longest Common Prefix.md",
+                "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Roman to Integer"
+              "title": "Longest Common Prefix"
             }
           }
         ]
@@ -207,8 +207,9 @@
   },
   "active": "182fc3414eac3122",
   "lastOpenFiles": [
-    "tasks/leetcode/Two Sum.md",
     "tasks/leetcode/Roman to Integer.md",
+    "tasks/leetcode/Longest Common Prefix.md",
+    "tasks/leetcode/Two Sum.md",
     "tasks/leetcode/!Leetcode.md",
     "IDP.md",
     "tasks/leetcode",
@@ -233,7 +234,6 @@
     "theory/android/jetpack compose/modifier/Color.md",
     "theory/android/android components/activity/Activity Lifecycle.md",
     "TOREAD.md",
-    "theory/android/jetpack compose/container/Sticky header.md",
     "resources/lifecycle-composition.png",
     "theory/android/jetpack compose/lifecycle",
     "resources/stiky_header.png",
