@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "tasks/leetcode/Two Sum.md",
+                "file": "tasks/leetcode/Roman to Integer.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Two Sum"
+              "title": "Roman to Integer"
             }
           }
         ]
@@ -190,7 +190,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 302.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -207,13 +207,15 @@
   },
   "active": "182fc3414eac3122",
   "lastOpenFiles": [
-    "tasks/leetcode",
     "tasks/leetcode/Two Sum.md",
+    "tasks/leetcode/Roman to Integer.md",
+    "tasks/leetcode/!Leetcode.md",
+    "IDP.md",
+    "tasks/leetcode",
     "theory/android/jetpack compose/modifier/!Modifier.md",
     "theory/android/jetpack compose/modifier/Clip.md",
     "theory/android/jetpack compose/modifier/Clickable.md",
     "theory/android/jetpack compose/modifier/Border.md",
-    "IDP.md",
     "theory/android/jetpack compose/Jetpack Compose.md",
     "theory/java/basics of java/!Basics of Java.md",
     "theory/java/Java.md",
@@ -234,7 +236,6 @@
     "theory/android/jetpack compose/container/Sticky header.md",
     "resources/lifecycle-composition.png",
     "theory/android/jetpack compose/lifecycle",
-    "theory/android/jetpack compose/container/!Container.md",
     "resources/stiky_header.png",
     "resources/column_scroll.png",
     "resources/intrinsic_sample_3.png",
@@ -251,7 +252,6 @@
     "theory/android/android components/service",
     "theory/android/android components/content provider",
     "theory/android/android components/activity",
-    "theory/android/android components/broadcast receiver",
-    "theory/android/android components"
+    "theory/android/android components/broadcast receiver"
   ]
 }

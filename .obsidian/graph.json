@@ -111,6 +111,13 @@
         "a": 1,
         "rgb": 5419488
       }
+    },
+    {
+      "query": "path:tasks/leetcode  ",
+      "color": {
+        "a": 1,
+        "rgb": 14701159
+      }
     }
   ],
   "collapse-display": false,
@@ -123,6 +130,6 @@
   "repelStrength": 18.3498263888889,
   "linkStrength": 1,
   "linkDistance": 30,
-  "scale": 0.46632417631877215,
+  "scale": 0.34121480910738017,
   "close": true
 }
