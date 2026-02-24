@@ -182,7 +182,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -203,9 +203,12 @@
   },
   "active": "f639b33b7ec07039",
   "lastOpenFiles": [
+    "IDP.md",
+    "theory/android/jetpack compose/Jetpack Compose.md",
+    "Contacts Provider.md",
+    "theory/android/android components/service/Service thread.md",
     "tasks/leetcode/Two Sum.md",
     "tasks/leetcode/!Leetcode.md",
-    "IDP.md",
     "TOREAD.md",
     "theory/android/jetpack compose/lifecycle/!Lifecycle.md",
     "theory/java/object-oriented programming/Encapsulation.md",
@@ -217,7 +220,6 @@
     "theory/java/object-oriented programming/Inheritance.md",
     "theory/android/android components/service/Foreground Service.md",
     "theory/android/android components/service/Background Service.md",
-    "theory/android/android components/service/Service thread.md",
     "theory/android/android components/service/IntentService, JobIntentService.md",
     "theory/android/android components/service/!Service.md",
     "theory/android/android components/content provider/ContentResolver.md",
@@ -227,8 +229,6 @@
     "theory/android/android components/broadcast receiver/Methods for sending broadcast.md",
     "theory/android/android components/broadcast receiver/Long operations in onReceive().md",
     "theory/android/android components/broadcast receiver/​!BroadcastReceiver.md",
-    "theory/android/android components/activity/Config change.md",
-    "theory/android/android components/activity/Activity Lifecycle.md",
     "tasks/leetcode",
     "resources/lifecycle-composition.png",
     "theory/android/jetpack compose/lifecycle",
