@@ -13,6 +13,27 @@
         "a": 1,
         "rgb": 5562450
       }
+    },
+    {
+      "query": "tag:#root",
+      "color": {
+        "a": 1,
+        "rgb": 5402336
+      }
+    },
+    {
+      "query": "path:tasks/leetcode  ",
+      "color": {
+        "a": 1,
+        "rgb": 14701269
+      }
+    },
+    {
+      "query": "tag:#in_progress  ",
+      "color": {
+        "a": 1,
+        "rgb": 16514826
+      }
     }
   ],
   "collapse-display": false,
@@ -21,10 +42,10 @@
   "nodeSizeMultiplier": 1.63358940972222,
   "lineSizeMultiplier": 1.04278211805556,
   "collapse-forces": false,
-  "centerStrength": 0.756597222222222,
-  "repelStrength": 20,
+  "centerStrength": 0.105729166666667,
+  "repelStrength": 9.44618055555556,
   "linkStrength": 1,
-  "linkDistance": 30,
-  "scale": 0.5581818216783361,
-  "close": true
+  "linkDistance": 218,
+  "scale": 0.3369338327305594,
+  "close": false
 }

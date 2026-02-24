@@ -7,3 +7,5 @@
 
 *JobIntentService* используется для тех же целей, что и *IntentService*, и имеет похожий API.
 Для старта *JobIntentService* используется статический метод **enqueueWork()**, который использует **Context.startServce()** для API level < 26 и **JobScheduler.enqueue()** для API level ≥ 26. После этого система стартует сервис и вызывает в фоновом потоке метод **onHandleWork()**.
+
+#done

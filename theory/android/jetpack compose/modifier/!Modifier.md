@@ -25,4 +25,4 @@ Modifier.модификатор1().модификатор2().модификат�
 
 See also: [[Color]], [[Setting the dimensions]], [[Padding]], [[Offset]], [[Scroll]], [[Border]], [[Clip]], [[Clickable]], [[Shadow]], [[IntrinsicSize]]
 
-#done
+#root

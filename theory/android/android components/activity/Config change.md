@@ -9,3 +9,5 @@
 onSaveInstanceState() вызывается после onStop() на версии API ≥ 28. На API < 28 этот коллбэк вызывается перед onStop() и нет гарантий до или после onPause().
 
 onRestoreInstanceState() вызывается после onStart().
+
+#done

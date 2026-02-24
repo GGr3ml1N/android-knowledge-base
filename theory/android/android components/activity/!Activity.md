@@ -3,3 +3,5 @@ _Activity_ – основной компонент в андроиде. _Activi
 _Activity_ с MAIN Intent Filter в манифесте запускается при старте приложения, когда пользователь кликает на иконку приложения.
 
 See also: [[Activity Lifecycle]], [[Config change]]
+
+#done

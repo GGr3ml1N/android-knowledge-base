@@ -20,3 +20,5 @@
 `Bound` и `Started` сервисы важно различать, потому что у них разные жизненные циклы.
 
 See also: [[Service thread]], [[IntentService, JobIntentService]]
+
+#done

@@ -24,3 +24,5 @@ onDestroy() – метод симметричный onCreate(). Вызывает
 4. Пользователь поворачивает телефон и ориентация активити меняется. Активити пересоздается и вызываются коллбеки onPause(), onStop(), onDestroy(), onCreate(), onStart(), onResume() с сохранением состояния.
 
 ![[activity_lifecycle.png]]
+
+#done
