@@ -11,14 +11,10 @@
             "id": "f639b33b7ec07039",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "theory/java/classes/Method parameters.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Method parameters"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Граф"
             }
           }
         ]
@@ -207,6 +203,9 @@
   },
   "active": "f639b33b7ec07039",
   "lastOpenFiles": [
+    "theory/java/object-oriented programming/Encapsulation.md",
+    "theory/java/basics of java/Java Program Structure.md",
+    "theory/java/classes/Method parameters.md",
     "theory/java/basics of java/Variables and constants.md",
     "theory/java/classes/Methods.md",
     "theory/java/classes/Classes and objects.md",
@@ -226,13 +225,10 @@
     "theory/android/android components/activity/Config change.md",
     "theory/android/android components/activity/Activity Lifecycle.md",
     "theory/android/android components/activity/!Activity.md",
-    "theory/java/object-oriented programming/Encapsulation.md",
     "theory/java/classes/!Classes.md",
     "theory/java/object-oriented programming/!Object-oriented programming.md",
     "theory/java/basics of java/!Basics of Java.md",
     "theory/android/android components/Android Components.md",
-    "theory/java/Java.md",
-    "theory/android/Android.md",
     "tasks/leetcode",
     "resources/lifecycle-composition.png",
     "theory/android/jetpack compose/lifecycle",
