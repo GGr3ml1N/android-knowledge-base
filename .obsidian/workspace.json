@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "61ed7a06e98332e7",
+        "id": "037cddd2fcdb75b2",
         "type": "tabs",
         "children": [
           {
-            "id": "182fc3414eac3122",
+            "id": "f639b33b7ec07039",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "tasks/leetcode/Longest Common Prefix.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Longest Common Prefix"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Граф"
             }
           }
         ]
@@ -205,12 +201,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "182fc3414eac3122",
+  "active": "f639b33b7ec07039",
   "lastOpenFiles": [
-    "tasks/leetcode/Roman to Integer.md",
-    "tasks/leetcode/Longest Common Prefix.md",
-    "tasks/leetcode/Two Sum.md",
     "tasks/leetcode/!Leetcode.md",
+    "tasks/leetcode/Longest Common Prefix.md",
+    "tasks/leetcode/Roman to Integer.md",
+    "tasks/leetcode/Two Sum.md",
     "IDP.md",
     "tasks/leetcode",
     "theory/android/jetpack compose/modifier/!Modifier.md",

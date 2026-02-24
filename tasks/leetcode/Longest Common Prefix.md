@@ -7,7 +7,6 @@ If there is no common prefix, return an empty string `""`.
 
 Если общего префикса нет, верните пустую строку `""`.
 ### Решение
-#### Не мое, потому что я тупой
 ```kotlin
 fun longestCommonPrefix(strings: Array<String>): String {  
     if (strings.isEmpty()) return ""  

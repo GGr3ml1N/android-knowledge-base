@@ -5,131 +5,18 @@
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": false,
-  "colorGroups": [
-    {
-      "query": "path:\"theory/android/android components/broadcast receiver\"  ",
-      "color": {
-        "a": 1,
-        "rgb": 14701138
-      }
-    },
-    {
-      "query": "path:\"theory/android/android components/activity\"  ",
-      "color": {
-        "a": 1,
-        "rgb": 14725458
-      }
-    },
-    {
-      "query": "path:\"theory/android/android components/content provider\"  ",
-      "color": {
-        "a": 1,
-        "rgb": 11657298
-      }
-    },
-    {
-      "query": "path:\"theory/android/android components/service\"  ",
-      "color": {
-        "a": 1,
-        "rgb": 5431378
-      }
-    },
-    {
-      "query": "path:\"theory/android/android components\"  ",
-      "color": {
-        "a": 1,
-        "rgb": 5431473
-      }
-    },
-    {
-      "query": "path:\"theory/kotlin/basics of kotlin\"  ",
-      "color": {
-        "a": 1,
-        "rgb": 5395168
-      }
-    },
-    {
-      "query": "path:theory/kotlin  ",
-      "color": {
-        "a": 1,
-        "rgb": 11621088
-      }
-    },
-    {
-      "query": "path:\"theory/java/basics of java\"  ",
-      "color": {
-        "a": 1,
-        "rgb": 14701233
-      }
-    },
-    {
-      "query": "path:theory/java/classes  ",
-      "color": {
-        "a": 1,
-        "rgb": 14701138
-      }
-    },
-    {
-      "query": "path:\"theory/java/object-oriented programming\"  ",
-      "color": {
-        "a": 1,
-        "rgb": 14725458
-      }
-    },
-    {
-      "query": "path:theory/java  ",
-      "color": {
-        "a": 1,
-        "rgb": 11657298
-      }
-    },
-    {
-      "query": "path:\"theory/android/jetpack compose/modifier\"  ",
-      "color": {
-        "a": 1,
-        "rgb": 5431378
-      }
-    },
-    {
-      "query": "path:\"theory/android/jetpack compose/container\"  ",
-      "color": {
-        "a": 1,
-        "rgb": 11284677
-      }
-    },
-    {
-      "query": "path:\"theory/android/jetpack compose\"  ",
-      "color": {
-        "a": 1,
-        "rgb": 5431473
-      }
-    },
-    {
-      "query": "path:theory/android  ",
-      "color": {
-        "a": 1,
-        "rgb": 5419488
-      }
-    },
-    {
-      "query": "path:tasks/leetcode  ",
-      "color": {
-        "a": 1,
-        "rgb": 14701159
-      }
-    }
-  ],
+  "collapse-color-groups": true,
+  "colorGroups": [],
   "collapse-display": false,
-  "showArrow": true,
-  "textFadeMultiplier": -1.1,
-  "nodeSizeMultiplier": 1.41283420138889,
-  "lineSizeMultiplier": 3.14867621527778,
+  "showArrow": false,
+  "textFadeMultiplier": -1.8,
+  "nodeSizeMultiplier": 1.63358940972222,
+  "lineSizeMultiplier": 1.04278211805556,
   "collapse-forces": false,
-  "centerStrength": 0.613802083333333,
-  "repelStrength": 18.3498263888889,
+  "centerStrength": 0.756597222222222,
+  "repelStrength": 20,
   "linkStrength": 1,
   "linkDistance": 30,
-  "scale": 0.34121480910738017,
+  "scale": 0.5581818216783361,
   "close": true
 }
