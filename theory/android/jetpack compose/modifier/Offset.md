@@ -6,3 +6,5 @@ fun Modifier.offset(offset: Density.() -> IntOffset): Modifier
 ```
 
 В качестве значения отступов применяются единицы `dp`.
+
+#done

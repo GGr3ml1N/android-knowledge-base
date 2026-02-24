@@ -12,3 +12,5 @@ fun Modifier.padding(paddingValues: PaddingValues): Modifier
 ```
 
 В качестве значения отступов применяются единицы `dp`.
+
+#done
