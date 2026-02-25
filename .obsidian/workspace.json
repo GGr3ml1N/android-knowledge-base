@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "tasks/leetcode/Algorithms.md",
+                "file": "tasks/leetcode/Valid Parentheses.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Algorithms"
+              "title": "Valid Parentheses"
             }
           }
         ]
@@ -207,8 +207,8 @@
   },
   "active": "f639b33b7ec07039",
   "lastOpenFiles": [
-    "tasks/leetcode/Valid Parentheses.md",
     "tasks/leetcode/Algorithms.md",
+    "tasks/leetcode/Valid Parentheses.md",
     "tasks/leetcode/Two Sum.md",
     "IDP.md",
     "theory/android/jetpack compose/Jetpack Compose.md",
