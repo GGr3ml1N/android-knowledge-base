@@ -11,10 +11,14 @@
             "id": "f639b33b7ec07039",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Граф"
+              "type": "markdown",
+              "state": {
+                "file": "tasks/leetcode/Valid Parentheses.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Valid Parentheses"
             }
           }
         ]
@@ -203,11 +207,12 @@
   },
   "active": "f639b33b7ec07039",
   "lastOpenFiles": [
+    "tasks/leetcode/Two Sum.md",
+    "tasks/leetcode/Valid Parentheses.md",
     "IDP.md",
     "theory/android/jetpack compose/Jetpack Compose.md",
     "Contacts Provider.md",
     "theory/android/android components/service/Service thread.md",
-    "tasks/leetcode/Two Sum.md",
     "tasks/leetcode/!Leetcode.md",
     "TOREAD.md",
     "theory/android/jetpack compose/lifecycle/!Lifecycle.md",
@@ -228,7 +233,6 @@
     "theory/android/android components/broadcast receiver/Register BroadcastRecevier.md",
     "theory/android/android components/broadcast receiver/Methods for sending broadcast.md",
     "theory/android/android components/broadcast receiver/Long operations in onReceive().md",
-    "theory/android/android components/broadcast receiver/​!BroadcastReceiver.md",
     "tasks/leetcode",
     "resources/lifecycle-composition.png",
     "theory/android/jetpack compose/lifecycle",
