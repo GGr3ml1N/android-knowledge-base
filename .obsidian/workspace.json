@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "tasks/leetcode/Valid Parentheses.md",
+                "file": "tasks/leetcode/Algorithms.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Valid Parentheses"
+              "title": "Algorithms"
             }
           }
         ]
@@ -207,8 +207,9 @@
   },
   "active": "f639b33b7ec07039",
   "lastOpenFiles": [
-    "tasks/leetcode/Two Sum.md",
     "tasks/leetcode/Valid Parentheses.md",
+    "tasks/leetcode/Algorithms.md",
+    "tasks/leetcode/Two Sum.md",
     "IDP.md",
     "theory/android/jetpack compose/Jetpack Compose.md",
     "Contacts Provider.md",
@@ -232,7 +233,6 @@
     "theory/android/android components/content provider/!ContentProvider.md",
     "theory/android/android components/broadcast receiver/Register BroadcastRecevier.md",
     "theory/android/android components/broadcast receiver/Methods for sending broadcast.md",
-    "theory/android/android components/broadcast receiver/Long operations in onReceive().md",
     "tasks/leetcode",
     "resources/lifecycle-composition.png",
     "theory/android/jetpack compose/lifecycle",
