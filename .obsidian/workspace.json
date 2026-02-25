@@ -15,7 +15,7 @@
               "state": {
                 "file": "tasks/leetcode/Valid Parentheses.md",
                 "mode": "source",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
               "title": "Valid Parentheses"
