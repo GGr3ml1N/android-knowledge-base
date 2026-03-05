@@ -11,10 +11,14 @@
             "id": "664ed22cfcb1540a",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Граф"
+              "type": "markdown",
+              "state": {
+                "file": "theory/android/android components/activity/Activity Lifecycle.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Activity Lifecycle"
             }
           }
         ]
@@ -203,6 +207,7 @@
   },
   "active": "664ed22cfcb1540a",
   "lastOpenFiles": [
+    "theory/android/android components/activity/!Activity.md",
     "IDP.md",
     "Без названия.base",
     "2026-03-05.md",
