@@ -1,3 +1,5 @@
 1. [[Two Sum]]
 2. [[Roman to Integer]]
 3. [[Longest Common Prefix]]
+4. [[Valid Parentheses]]
+5. [[Algorithms]]
