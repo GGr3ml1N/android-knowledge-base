@@ -11,14 +11,10 @@
             "id": "664ed22cfcb1540a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "IDP.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "IDP"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Граф"
             }
           }
         ]
@@ -207,9 +203,9 @@
   },
   "active": "664ed22cfcb1540a",
   "lastOpenFiles": [
+    "IDP.md",
     "Без названия.base",
     "2026-03-05.md",
-    "IDP.md",
     "tasks/leetcode/!Leetcode.md",
     "tasks/leetcode/Roman to Integer.md",
     "theory/android/jetpack compose/Side effects.md",
