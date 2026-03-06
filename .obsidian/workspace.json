@@ -11,14 +11,10 @@
             "id": "664ed22cfcb1540a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "theory/android/android components/activity/Activity Lifecycle.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Activity Lifecycle"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Граф"
             }
           }
         ]
@@ -190,8 +186,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 302.5,
-    "collapsed": true
+    "width": 302.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -208,10 +203,13 @@
   },
   "active": "664ed22cfcb1540a",
   "lastOpenFiles": [
-    "theory/android/android components/activity/!Activity.md",
     "IDP.md",
-    "TOREAD.md",
+    "Без названия.md",
+    "theory/android/jetpack compose/container/LazyColumn, LazyRow.md",
+    "theory/android/jetpack compose/container/!Container.md",
     "theory/android/android components/activity/Activity Lifecycle.md",
+    "theory/android/android components/activity/!Activity.md",
+    "TOREAD.md",
     "theory/android/android components/content provider/System ContentProvider.md",
     "theory/android/android components/content provider/!ContentProvider.md",
     "theory/android/android components/content provider/ContentResolver.md",
@@ -229,13 +227,10 @@
     "tasks/leetcode/Valid Parentheses.md",
     "tasks/leetcode/Algorithms.md",
     "theory/kotlin/basics of kotlin/Nested and inner classes and interfaces.md",
-    "Без названия.md",
     "Без названия",
     "tasks/leetcode/Two Sum.md",
     "Contacts Provider.md",
     "theory/android/jetpack compose/lifecycle/!Lifecycle.md",
-    "theory/java/object-oriented programming/Encapsulation.md",
-    "theory/java/basics of java/Java Program Structure.md",
     "tasks/leetcode",
     "resources/lifecycle-composition.png",
     "theory/android/jetpack compose/lifecycle",
