@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "theory/android/android components/activity/!Activity.md",
+                "file": "theory/android/android components/activity/Activity Lifecycle.md",
                 "mode": "source",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
-              "title": "!Activity"
+              "title": "Activity Lifecycle"
             }
           }
         ]
@@ -190,7 +190,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 302.5
+    "width": 302.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -207,6 +208,9 @@
   },
   "active": "664ed22cfcb1540a",
   "lastOpenFiles": [
+    "theory/android/android components/activity/!Activity.md",
+    "IDP.md",
+    "TOREAD.md",
     "theory/android/android components/activity/Activity Lifecycle.md",
     "theory/android/android components/content provider/System ContentProvider.md",
     "theory/android/android components/content provider/!ContentProvider.md",
@@ -215,8 +219,6 @@
     "theory/android/android components/service/Foreground Service.md",
     "theory/android/android components/service/Background Service.md",
     "theory/android/android components/service/Service thread.md",
-    "IDP.md",
-    "theory/android/android components/activity/!Activity.md",
     "Без названия.base",
     "2026-03-05.md",
     "tasks/leetcode/!Leetcode.md",
@@ -231,7 +233,6 @@
     "Без названия",
     "tasks/leetcode/Two Sum.md",
     "Contacts Provider.md",
-    "TOREAD.md",
     "theory/android/jetpack compose/lifecycle/!Lifecycle.md",
     "theory/java/object-oriented programming/Encapsulation.md",
     "theory/java/basics of java/Java Program Structure.md",
