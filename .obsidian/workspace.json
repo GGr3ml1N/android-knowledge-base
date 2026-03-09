@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "IDP.md",
-                "mode": "preview",
+                "file": "theory/linux/Для чего нужна ОС.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "IDP"
+              "title": "Для чего нужна ОС"
             }
           }
         ]
@@ -207,9 +207,13 @@
   },
   "active": "664ed22cfcb1540a",
   "lastOpenFiles": [
+    "theory/linux/Для чего нужна ОС.md",
+    "theory/linux/!Linux.md",
+    "theory/android/jetpack compose/Side effects.md",
+    "theory/android/jetpack compose/!Jetpack Compose.md",
+    "IDP.md",
     "TOREAD.md",
     "theory/linux",
-    "IDP.md",
     "Без названия.md",
     "theory/android/jetpack compose/container/LazyColumn, LazyRow.md",
     "theory/android/jetpack compose/container/!Container.md",
@@ -226,15 +230,12 @@
     "2026-03-05.md",
     "tasks/leetcode/!Leetcode.md",
     "tasks/leetcode/Roman to Integer.md",
-    "theory/android/jetpack compose/Side effects.md",
-    "theory/android/jetpack compose/!Jetpack Compose.md",
     "().md",
     "tasks/leetcode/Valid Parentheses.md",
     "tasks/leetcode/Algorithms.md",
     "theory/kotlin/basics of kotlin/Nested and inner classes and interfaces.md",
     "Без названия",
     "tasks/leetcode/Two Sum.md",
-    "Contacts Provider.md",
     "tasks/leetcode",
     "resources/lifecycle-composition.png",
     "theory/android/jetpack compose/lifecycle",
