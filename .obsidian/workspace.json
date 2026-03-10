@@ -11,10 +11,14 @@
             "id": "664ed22cfcb1540a",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Граф"
+              "type": "markdown",
+              "state": {
+                "file": "theory/linux/Ядро ОС.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Ядро ОС"
             }
           }
         ]
@@ -203,7 +207,13 @@
   },
   "active": "664ed22cfcb1540a",
   "lastOpenFiles": [
+    "resources/monolith.png",
+    "resources/Снимок экрана 2026-03-10 в 12.58.45.png",
+    "resources/Ядро.png",
+    "resources/Снимок экрана 2026-03-10 в 12.54.14.png",
+    "resources/Снимок экрана 2026-03-10 в 12.53.59.png",
     "theory/linux/Для чего нужна ОС.md",
+    "theory/linux/Ядро ОС.md",
     "theory/linux/!Linux.md",
     "theory/linux",
     "IDP.md",
@@ -229,9 +239,7 @@
     "().md",
     "tasks/leetcode/Valid Parentheses.md",
     "tasks/leetcode/Algorithms.md",
-    "theory/kotlin/basics of kotlin/Nested and inner classes and interfaces.md",
     "Без названия",
-    "tasks/leetcode/Two Sum.md",
     "tasks/leetcode",
     "resources/lifecycle-composition.png",
     "theory/android/jetpack compose/lifecycle",
@@ -240,10 +248,6 @@
     "resources/intrinsic_sample_3.png",
     "resources/intrinsic_sample_2.png",
     "resources/intrinsic_sample_1.png",
-    "resources/flow_column.png",
-    "resources/flow_row.png",
-    "resources/staggered_grid_horizontal.png",
-    "resources/staggered_grid_vertical.png",
     "resources/Не подтверждено 998.~",
     "theory/android/jetpack compose/container",
     "theory/android/jetpack compose/modifier",
