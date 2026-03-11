@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "theory/android/jetpack compose/lifecycle/Lifecycle of composables.md",
+                "file": "theory/linux/Кольца защиты и современные ОС.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Lifecycle of composables"
+              "title": "Кольца защиты и современные ОС"
             }
           }
         ]
@@ -207,6 +207,13 @@
   },
   "active": "4a44f1688a2b8538",
   "lastOpenFiles": [
+    "theory/linux/!Linux.md",
+    "theory/kotlin/Kotlin.md",
+    "theory/kotlin/coroutines/!Coroutines.md",
+    "theory/kotlin/coroutines",
+    "theory/kotlin/basics of kotlin/Без названия.md",
+    "TOREAD.md",
+    "theory/android/jetpack compose/lifecycle/Lifecycle of composables.md",
     "theory/android/jetpack compose/Side effects.md",
     "theory/android/Android.md",
     "theory/kotlin/basics of kotlin/Data classes.md",
@@ -220,9 +227,7 @@
     "theory/linux/Для чего нужна ОС.md",
     "theory/linux/Кольца защиты и современные ОС.md",
     "conflict-files-obsidian-git.md",
-    "theory/linux/!Linux.md",
     "theory/android/jetpack compose/!Jetpack Compose.md",
-    "TOREAD.md",
     "theory/linux",
     "Без названия.md",
     "theory/android/jetpack compose/container/LazyColumn, LazyRow.md",
@@ -235,11 +240,7 @@
     "theory/android/android components/service/IntentService, JobIntentService.md",
     "theory/android/android components/service/Foreground Service.md",
     "theory/android/android components/service/Background Service.md",
-    "theory/android/android components/service/Service thread.md",
     "Без названия.base",
-    "2026-03-05.md",
-    "tasks/leetcode/!Leetcode.md",
-    "tasks/leetcode/Roman to Integer.md",
     "Без названия",
     "tasks/leetcode",
     "resources/lifecycle-composition.png",
@@ -251,7 +252,6 @@
     "resources/Не подтверждено 998.~",
     "theory/android/jetpack compose/container",
     "theory/android/jetpack compose/modifier",
-    "theory/android/jetpack compose",
-    "theory/android/android components/service"
+    "theory/android/jetpack compose"
   ]
 }
