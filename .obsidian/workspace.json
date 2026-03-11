@@ -11,10 +11,14 @@
             "id": "4a44f1688a2b8538",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "theory/android/jetpack compose/lifecycle/Lifecycle of composables.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Новая вкладка"
+              "title": "Lifecycle of composables"
             }
           }
         ]
@@ -203,6 +207,7 @@
   },
   "active": "4a44f1688a2b8538",
   "lastOpenFiles": [
+    "theory/android/jetpack compose/Side effects.md",
     "theory/android/Android.md",
     "theory/kotlin/basics of kotlin/Data classes.md",
     "theory/linux/Ядро ОС.md",
@@ -216,7 +221,6 @@
     "theory/linux/Кольца защиты и современные ОС.md",
     "conflict-files-obsidian-git.md",
     "theory/linux/!Linux.md",
-    "theory/android/jetpack compose/Side effects.md",
     "theory/android/jetpack compose/!Jetpack Compose.md",
     "TOREAD.md",
     "theory/linux",
