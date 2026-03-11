@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "theory/linux/Кольца защиты и современные ОС.md",
+                "file": "theory/linux/Структура каталогов Linux.md",
                 "mode": "source",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
-              "title": "Кольца защиты и современные ОС"
+              "title": "Структура каталогов Linux"
             }
           }
         ]
@@ -207,7 +207,12 @@
   },
   "active": "4a44f1688a2b8538",
   "lastOpenFiles": [
+    "resources/Linux hierarchy.png",
+    "theory/linux/Структура каталогов Linux.md",
     "theory/linux/!Linux.md",
+    "theory/linux/Для чего нужна ОС.md",
+    "theory/linux/Кольца защиты и современные ОС.md",
+    "theory/linux/Ядро ОС.md",
     "theory/kotlin/Kotlin.md",
     "theory/kotlin/coroutines/!Coroutines.md",
     "theory/kotlin/coroutines",
@@ -217,15 +222,12 @@
     "theory/android/jetpack compose/Side effects.md",
     "theory/android/Android.md",
     "theory/kotlin/basics of kotlin/Data classes.md",
-    "theory/linux/Ядро ОС.md",
     "IDP.md",
     "resources/Кольца защиты.png",
     "resources/Ядро.png",
     "resources/Hybrid.png",
     "resources/microkernel.png",
     "resources/monolith.png",
-    "theory/linux/Для чего нужна ОС.md",
-    "theory/linux/Кольца защиты и современные ОС.md",
     "conflict-files-obsidian-git.md",
     "theory/android/jetpack compose/!Jetpack Compose.md",
     "theory/linux",
@@ -238,8 +240,6 @@
     "theory/android/android components/content provider/!ContentProvider.md",
     "theory/android/android components/content provider/ContentResolver.md",
     "theory/android/android components/service/IntentService, JobIntentService.md",
-    "theory/android/android components/service/Foreground Service.md",
-    "theory/android/android components/service/Background Service.md",
     "Без названия.base",
     "Без названия",
     "tasks/leetcode",
@@ -248,7 +248,6 @@
     "resources/stiky_header.png",
     "resources/column_scroll.png",
     "resources/intrinsic_sample_3.png",
-    "resources/intrinsic_sample_2.png",
     "resources/Не подтверждено 998.~",
     "theory/android/jetpack compose/container",
     "theory/android/jetpack compose/modifier",
