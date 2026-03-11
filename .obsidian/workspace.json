@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "theory/linux/Для чего нужна ОС.md",
+                "file": "IDP.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Для чего нужна ОС"
+              "title": "IDP"
             }
           }
         ]
@@ -207,11 +207,11 @@
   },
   "active": "664ed22cfcb1540a",
   "lastOpenFiles": [
-    "theory/linux/Для чего нужна ОС.md",
     "theory/linux/!Linux.md",
+    "IDP.md",
+    "theory/linux/Для чего нужна ОС.md",
     "theory/android/jetpack compose/Side effects.md",
     "theory/android/jetpack compose/!Jetpack Compose.md",
-    "IDP.md",
     "TOREAD.md",
     "theory/linux",
     "Без названия.md",
