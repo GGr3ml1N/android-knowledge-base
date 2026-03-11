@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "0243f8a300a76592",
+        "id": "0738e79fc554f683",
         "type": "tabs",
         "children": [
           {
-            "id": "664ed22cfcb1540a",
+            "id": "4a44f1688a2b8538",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
-              "state": {
-                "aFile": "conflict-files-obsidian-git.md",
-                "bFile": "conflict-files-obsidian-git.md",
-                "aRef": ""
-              },
-              "icon": "diff",
-              "title": "Diff: conflict-files-obsidian-git  (Working Tree)"
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Новая вкладка"
             }
           }
         ]
@@ -205,7 +201,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "664ed22cfcb1540a",
+  "active": "4a44f1688a2b8538",
   "lastOpenFiles": [
     "theory/android/Android.md",
     "theory/kotlin/basics of kotlin/Data classes.md",
