@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "theory/linux/Кольца защиты и современные ОС.md",
+                "file": "theory/linux/Структура каталогов Linux.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Кольца защиты и современные ОС"
+              "title": "Структура каталогов Linux"
             }
           }
         ]
@@ -171,8 +171,8 @@
             "state": {
               "type": "git-view",
               "state": {},
-              "icon": "lucide-ghost",
-              "title": "git-view"
+              "icon": "git-pull-request",
+              "title": "Source Control"
             }
           },
           {
@@ -186,7 +186,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -207,10 +207,13 @@
   },
   "active": "664ed22cfcb1540a",
   "lastOpenFiles": [
+    "theory/linux/Кольца защиты и современные ОС.md",
+    "conflict-files-obsidian-git.md",
+    "theory/linux/Структура каталогов Linux.md",
+    "resources/Linux hierarchy.png",
     "theory/kotlin/coroutines/!Coroutines.md",
     "theory/kotlin/coroutines",
     "theory/linux/Ядро ОС.md",
-    "theory/linux/Кольца защиты и современные ОС.md",
     "resources/Кольца защиты.png",
     "resources/Снимок экрана 2026-03-10 в 13.24.43.png",
     "theory/linux/Для чего нужна ОС.md",
@@ -222,7 +225,6 @@
     "resources/monolith.png",
     "resources/Снимок экрана 2026-03-10 в 12.58.45.png",
     "resources/Ядро.png",
-    "resources/Снимок экрана 2026-03-10 в 12.54.14.png",
     "theory/linux",
     "IDP.md",
     "Без названия.md",
@@ -244,8 +246,6 @@
     "tasks/leetcode/Roman to Integer.md",
     "theory/android/jetpack compose/Side effects.md",
     "theory/android/jetpack compose/!Jetpack Compose.md",
-    "().md",
-    "tasks/leetcode/Valid Parentheses.md",
     "Без названия",
     "tasks/leetcode",
     "theory/android/jetpack compose/lifecycle",
