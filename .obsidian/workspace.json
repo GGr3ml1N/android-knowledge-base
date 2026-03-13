@@ -11,14 +11,10 @@
             "id": "664ed22cfcb1540a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "theory/linux/Структура каталогов Linux.md",
-                "mode": "preview",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Структура каталогов Linux"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Граф"
             }
           }
         ]
@@ -207,8 +203,8 @@
   },
   "active": "664ed22cfcb1540a",
   "lastOpenFiles": [
-    "theory/kotlin/basics of kotlin/Data classes.md",
     "theory/linux/Структура каталогов Linux.md",
+    "theory/kotlin/basics of kotlin/Data classes.md",
     "theory/linux/Кольца защиты и современные ОС.md",
     "conflict-files-obsidian-git.md",
     "resources/Linux hierarchy.png",
