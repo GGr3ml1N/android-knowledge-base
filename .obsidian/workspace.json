@@ -11,10 +11,14 @@
             "id": "664ed22cfcb1540a",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Граф"
+              "type": "markdown",
+              "state": {
+                "file": "theory/linux/Структура каталогов Linux.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Структура каталогов Linux"
             }
           }
         ]
