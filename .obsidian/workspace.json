@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "theory/linux/Структура каталогов Linux.md",
-                "mode": "source",
+                "file": "theory/linux/Простейшие команды Linux.md",
+                "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Структура каталогов Linux"
+              "title": "Простейшие команды Linux"
             }
           }
         ]
@@ -208,6 +208,8 @@
   "active": "664ed22cfcb1540a",
   "lastOpenFiles": [
     "theory/linux/Структура каталогов Linux.md",
+    "theory/linux/Простейшие команды Linux.md",
+    "resources/Bonus_10_basovih_komand_Linux.pdf",
     "theory/kotlin/basics of kotlin/Data classes.md",
     "theory/linux/Кольца защиты и современные ОС.md",
     "conflict-files-obsidian-git.md",
@@ -245,13 +247,11 @@
     "2026-03-05.md",
     "tasks/leetcode/!Leetcode.md",
     "tasks/leetcode/Roman to Integer.md",
-    "theory/android/jetpack compose/Side effects.md",
     "Без названия",
     "tasks/leetcode",
     "theory/android/jetpack compose/lifecycle",
     "resources/Не подтверждено 998.~",
     "theory/android/jetpack compose/container",
-    "theory/android/jetpack compose/modifier",
-    "theory/android/jetpack compose"
+    "theory/android/jetpack compose/modifier"
   ]
 }
