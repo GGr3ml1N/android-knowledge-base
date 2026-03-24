@@ -11,10 +11,14 @@
             "id": "664ed22cfcb1540a",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Граф"
+              "type": "markdown",
+              "state": {
+                "file": "theory/linux/Простейшие команды Linux.md",
+                "mode": "preview",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Простейшие команды Linux"
             }
           }
         ]
@@ -203,9 +207,9 @@
   },
   "active": "664ed22cfcb1540a",
   "lastOpenFiles": [
+    "theory/linux/Структура каталогов Linux.md",
     "theory/linux/Простейшие команды Linux.md",
     "resources/Bonus_10_basovih_komand_Linux.pdf",
-    "theory/linux/Структура каталогов Linux.md",
     "theory/kotlin/basics of kotlin/Data classes.md",
     "theory/linux/Кольца защиты и современные ОС.md",
     "conflict-files-obsidian-git.md",
