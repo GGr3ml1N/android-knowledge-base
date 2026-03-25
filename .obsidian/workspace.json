@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "IDP.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
@@ -207,8 +207,11 @@
   },
   "active": "664ed22cfcb1540a",
   "lastOpenFiles": [
-    "theory/linux/Кольца защиты и современные ОС 1.md",
+    "theory/android/dagger 2/Intro.md",
+    "theory/android/dagger 2/!Dagger 2.md",
+    "theory/android/dagger 2",
     "IDP.md",
+    "theory/linux/Кольца защиты и современные ОС 1.md",
     "theory/linux/Простейшие команды Linux.md",
     "theory/linux/Структура каталогов Linux.md",
     "resources/Bonus_10_basovih_komand_Linux.pdf",
@@ -245,13 +248,10 @@
     "theory/android/android components/service/Background Service.md",
     "theory/android/android components/service/Service thread.md",
     "Без названия.base",
-    "2026-03-05.md",
-    "tasks/leetcode/!Leetcode.md",
     "Без названия",
     "tasks/leetcode",
     "theory/android/jetpack compose/lifecycle",
     "resources/Не подтверждено 998.~",
-    "theory/android/jetpack compose/container",
-    "theory/android/jetpack compose/modifier"
+    "theory/android/jetpack compose/container"
   ]
 }
