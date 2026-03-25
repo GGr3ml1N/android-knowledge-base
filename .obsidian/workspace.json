@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "theory/linux/Простейшие команды Linux.md",
-                "mode": "preview",
-                "source": true
+                "file": "IDP.md",
+                "mode": "source",
+                "source": false
               },
               "icon": "lucide-file",
-              "title": "Простейшие команды Linux"
+              "title": "IDP"
             }
           }
         ]
@@ -207,8 +207,10 @@
   },
   "active": "664ed22cfcb1540a",
   "lastOpenFiles": [
-    "theory/linux/Структура каталогов Linux.md",
+    "theory/linux/Кольца защиты и современные ОС 1.md",
+    "IDP.md",
     "theory/linux/Простейшие команды Linux.md",
+    "theory/linux/Структура каталогов Linux.md",
     "resources/Bonus_10_basovih_komand_Linux.pdf",
     "theory/kotlin/basics of kotlin/Data classes.md",
     "theory/linux/Кольца защиты и современные ОС.md",
@@ -229,7 +231,6 @@
     "resources/Снимок экрана 2026-03-10 в 12.58.45.png",
     "resources/Ядро.png",
     "theory/linux",
-    "IDP.md",
     "Без названия.md",
     "theory/android/jetpack compose/container/LazyColumn, LazyRow.md",
     "theory/android/jetpack compose/container/!Container.md",
@@ -246,7 +247,6 @@
     "Без названия.base",
     "2026-03-05.md",
     "tasks/leetcode/!Leetcode.md",
-    "tasks/leetcode/Roman to Integer.md",
     "Без названия",
     "tasks/leetcode",
     "theory/android/jetpack compose/lifecycle",
