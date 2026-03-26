@@ -19,13 +19,14 @@ fun twoSum(list: List<Int>, target: Int): Pair<Int, Int>? {
 		if (target == sum)
 			return left to right
 		if sum > target
-			right -= 1
+			right--
 		else
-			left += 1
+			left++
 		return null
 	}
 }
 ```
+Работает только для отсортированного массива
 
 ## Fast and slow
 
