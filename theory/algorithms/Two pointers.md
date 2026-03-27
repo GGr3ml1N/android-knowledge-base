@@ -47,13 +47,22 @@ val secondList = listOf(1, 2, 2, 7, 8, 8, 8) //Ответ: 2, 8, 8
 Идея в том, чтобы поставить указатель на начало первого массива и на начало второго массива и сравнивать значения. Если элемент в каком то массиве меньше, чем в другом - двигаем его указатель. Если значения равны - выписываем его
 
 ```kotlin
-fun commonElements(firstList: List<Int>, secondList: List<Int>): List<Int> {
-	val firstPointer = 0
-	val secondPointer = 0
-	val resultList = mutableListOf()
-	
-	while (firstPointer < firstList.size && secondPointer < secondList.size) {
-		
-	}	
+fun commonElements(firstList: List<Int>, secondList: List<Int>): List<Int> {  
+    var firstPointer = 0  
+    var secondPointer = 0  
+    val resultList = mutableListOf<Int>()  
+  
+    while (firstPointer < firstList.size && secondPointer < secondList.size) {  
+        when {  
+            firstList[firstPointer] < secondList[secondPointer] -> firstPointer++  
+            firstList[firstPointer] > secondList[secondPointer] -> secondPointer++  
+            firstList[firstPointer] == secondList[secondPointer] -> {  
+                resultList.add(firstList[firstPointer])  
+                firstPointer++  
+                secondPointer++  
+            }  
+        }  
+    }  
+    return resultList  
 }
 ```
