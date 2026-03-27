@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "theory/algorithms/Two pointers.md",
-                "mode": "source",
+                "file": "tasks/leetcode/Merge Two Sorted Lists.md",
+                "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Two pointers"
+              "title": "Merge Two Sorted Lists"
             }
           }
         ]
@@ -207,8 +207,10 @@
   },
   "active": "664ed22cfcb1540a",
   "lastOpenFiles": [
-    "theory/algorithms/!Algorithms.md",
+    "tasks/leetcode/Roman to Integer.md",
+    "tasks/leetcode/Merge Two Sorted Lists.md",
     "theory/algorithms/Two pointers.md",
+    "theory/algorithms/!Algorithms.md",
     "theory/Без названия.md",
     "theory/algorithms",
     "IDP.md",
@@ -246,8 +248,6 @@
     "TOREAD.md",
     "theory/android/android components/content provider/System ContentProvider.md",
     "theory/android/android components/content provider/!ContentProvider.md",
-    "theory/android/android components/content provider/ContentResolver.md",
-    "theory/android/android components/service/IntentService, JobIntentService.md",
     "Без названия.base",
     "Без названия",
     "tasks/leetcode",
