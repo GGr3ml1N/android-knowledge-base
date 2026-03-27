@@ -32,5 +32,6 @@ fun twoSum(list: List<Int>, target: Int): Pair<Int, Int>? {
 
 ## Fast and slow
 
+
 ## To each its own pointer
 
