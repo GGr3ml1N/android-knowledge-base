@@ -38,4 +38,22 @@ fun twoSum(list: List<Int>, target: Int): Pair<Int, Int>? {
 
 
 # To each its own pointer
+Даны два отсортированных массива. Нужно вернуть их общие элементы
+```kotlin
+val firstList = listOf(0, 2, 4, 8, 8)
+val secondList = listOf(1, 2, 2, 7, 8, 8, 8) //Ответ: 2, 8, 8
+```
 
+Идея в том, чтобы поставить указатель на начало первого массива и на начало второго массива и сравнивать значения. Если элемент в каком то массиве меньше, чем в другом - двигаем его указатель. Если значения равны - выписываем его
+
+```kotlin
+fun commonElements(firstList: List<Int>, secondList: List<Int>): List<Int> {
+	val firstPointer = 0
+	val secondPointer = 0
+	val resultList = mutableListOf()
+	
+	while (firstPointer < firstList.size && secondPointer < secondList.size) {
+		
+	}	
+}
+```
