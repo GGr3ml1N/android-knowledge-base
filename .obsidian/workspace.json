@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "tasks/leetcode/Merge Two Sorted Lists.md",
+                "file": "theory/algorithms/Two pointers.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Merge Two Sorted Lists"
+              "title": "Two pointers"
             }
           }
         ]
@@ -207,8 +207,8 @@
   },
   "active": "664ed22cfcb1540a",
   "lastOpenFiles": [
-    "tasks/leetcode/Roman to Integer.md",
     "tasks/leetcode/Merge Two Sorted Lists.md",
+    "tasks/leetcode/Roman to Integer.md",
     "theory/algorithms/Two pointers.md",
     "theory/algorithms/!Algorithms.md",
     "theory/Без названия.md",
