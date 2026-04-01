@@ -25,12 +25,14 @@
             "id": "ff5cde59044253a5",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.12.7"
+                "file": "tasks/leetcode/Roman to Integer.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-book-up",
-              "title": "примечания к выпуску 1.12.7"
+              "icon": "lucide-file",
+              "title": "Roman to Integer"
             }
           }
         ],
@@ -221,6 +223,8 @@
   "active": "ff5cde59044253a5",
   "lastOpenFiles": [
     "tasks/leetcode/Merge Two Sorted Lists.md",
+    "tasks/leetcode/Longest Common Prefix.md",
+    "tasks/leetcode/Algorithms.md",
     "tasks/leetcode/Roman to Integer.md",
     "theory/algorithms/Two pointers.md",
     "theory/algorithms/!Algorithms.md",
@@ -259,8 +263,6 @@
     "theory/android/android components/activity/Activity Lifecycle.md",
     "theory/android/android components/activity/!Activity.md",
     "TOREAD.md",
-    "theory/android/android components/content provider/System ContentProvider.md",
-    "theory/android/android components/content provider/!ContentProvider.md",
     "Без названия.base",
     "Без названия",
     "tasks/leetcode",
