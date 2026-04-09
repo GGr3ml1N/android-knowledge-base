@@ -14,8 +14,8 @@ retain{
 Узнать про пагинацию
 [Statehosting](https://developer.android.com/develop/ui/compose/state-hoisting)
 [Графические модификаторы](https://developer.android.com/develop/ui/compose/graphics/draw/modifiers)
-
+@Stable аннотация, как
 
 ## Паттерны
 Манада?
-
+object это singleton?
