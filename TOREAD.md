@@ -12,6 +12,9 @@ retain{
 
 ## Compose 
 Узнать про пагинацию
+[Statehosting](https://developer.android.com/develop/ui/compose/state-hoisting)
+[Графические модификаторы](https://developer.android.com/develop/ui/compose/graphics/draw/modifiers)
+
 
 ## Паттерны
 Манада?
