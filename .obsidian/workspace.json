@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "theory/Commits.md",
-                "mode": "source",
-                "source": false
+                "file": "theory/android/Elementary State Manager.md",
+                "mode": "preview",
+                "source": true
               },
               "icon": "lucide-file",
-              "title": "Commits"
+              "title": "Elementary State Manager"
             }
           }
         ],
@@ -222,9 +222,10 @@
   },
   "active": "ff5cde59044253a5",
   "lastOpenFiles": [
+    "theory/Commits.md",
+    "theory/android/Elementary State Manager.md",
     "TOREAD.md",
     "IDP.md",
-    "theory/Commits.md",
     "theory/algorithms/Two pointers.md",
     "tasks/leetcode/Roman to Integer.md",
     "tasks/leetcode/Merge Two Sorted Lists.md",
@@ -262,7 +263,6 @@
     "theory/android/jetpack compose/container/LazyColumn, LazyRow.md",
     "theory/android/jetpack compose/container/!Container.md",
     "theory/android/android components/activity/Activity Lifecycle.md",
-    "theory/android/android components/activity/!Activity.md",
     "Без названия.base",
     "Без названия",
     "tasks/leetcode",
