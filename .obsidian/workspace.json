@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "theory/android/Elementary State Manager.md",
+                "file": "IDP.md",
                 "mode": "preview",
-                "source": true
+                "source": false
               },
               "icon": "lucide-file",
-              "title": "Elementary State Manager"
+              "title": "IDP"
             }
           }
         ],
@@ -205,7 +205,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 302.5
+    "width": 302.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -222,10 +223,10 @@
   },
   "active": "ff5cde59044253a5",
   "lastOpenFiles": [
-    "theory/Commits.md",
-    "theory/android/Elementary State Manager.md",
     "TOREAD.md",
     "IDP.md",
+    "theory/android/Elementary State Manager.md",
+    "theory/Commits.md",
     "theory/algorithms/Two pointers.md",
     "tasks/leetcode/Roman to Integer.md",
     "tasks/leetcode/Merge Two Sorted Lists.md",
