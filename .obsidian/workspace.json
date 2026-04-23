@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "IDP.md",
-                "mode": "preview",
-                "source": false
+                "file": "ai/What do I need to start.md",
+                "mode": "source",
+                "source": true
               },
               "icon": "lucide-file",
-              "title": "IDP"
+              "title": "What do I need to start"
             }
           }
         ],
@@ -223,10 +223,13 @@
   },
   "active": "ff5cde59044253a5",
   "lastOpenFiles": [
-    "TOREAD.md",
-    "IDP.md",
-    "theory/android/Elementary State Manager.md",
+    "Без названия.md",
+    "ai/What do I need to start.md",
     "theory/Commits.md",
+    "ai",
+    "IDP.md",
+    "TOREAD.md",
+    "theory/android/Elementary State Manager.md",
     "theory/algorithms/Two pointers.md",
     "tasks/leetcode/Roman to Integer.md",
     "tasks/leetcode/Merge Two Sorted Lists.md",
@@ -260,12 +263,9 @@
     "resources/Снимок экрана 2026-03-10 в 12.58.45.png",
     "resources/Ядро.png",
     "theory/linux",
-    "Без названия.md",
     "theory/android/jetpack compose/container/LazyColumn, LazyRow.md",
     "theory/android/jetpack compose/container/!Container.md",
-    "theory/android/android components/activity/Activity Lifecycle.md",
     "Без названия.base",
-    "Без названия",
     "tasks/leetcode",
     "theory/android/jetpack compose/lifecycle",
     "resources/Не подтверждено 998.~"
