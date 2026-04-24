@@ -11,10 +11,14 @@
             "id": "8d4ab1b89f078f81",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "IDP.md",
+                "mode": "preview",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Новая вкладка"
+              "title": "IDP"
             }
           }
         ]
@@ -204,12 +208,13 @@
   },
   "active": "8d4ab1b89f078f81",
   "lastOpenFiles": [
+    "theory/kotlin/basics of kotlin/Nested and inner classes and interfaces.md",
+    "IDP.md",
     "ai/What do I need to start.md",
     "theory/algorithms/Two pointers.md",
     "Без названия.md",
     "theory/Commits.md",
     "ai",
-    "IDP.md",
     "TOREAD.md",
     "theory/android/Elementary State Manager.md",
     "tasks/leetcode/Roman to Integer.md",
@@ -245,7 +250,6 @@
     "resources/Ядро.png",
     "theory/linux",
     "theory/android/jetpack compose/container/LazyColumn, LazyRow.md",
-    "theory/android/jetpack compose/container/!Container.md",
     "Без названия.base",
     "tasks/leetcode",
     "theory/android/jetpack compose/lifecycle",
