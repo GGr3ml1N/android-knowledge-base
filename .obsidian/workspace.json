@@ -4,39 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "0243f8a300a76592",
+        "id": "b97427ed62c8b90e",
         "type": "tabs",
         "children": [
           {
-            "id": "664ed22cfcb1540a",
+            "id": "8d4ab1b89f078f81",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "theory/algorithms/Two pointers.md",
-                "mode": "preview",
-                "source": true
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Two pointers"
-            }
-          },
-          {
-            "id": "ff5cde59044253a5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ai/What do I need to start.md",
-                "mode": "preview",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "What do I need to start"
+              "title": "Новая вкладка"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -221,16 +202,16 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "ff5cde59044253a5",
+  "active": "8d4ab1b89f078f81",
   "lastOpenFiles": [
-    "Без названия.md",
     "ai/What do I need to start.md",
+    "theory/algorithms/Two pointers.md",
+    "Без названия.md",
     "theory/Commits.md",
     "ai",
     "IDP.md",
     "TOREAD.md",
     "theory/android/Elementary State Manager.md",
-    "theory/algorithms/Two pointers.md",
     "tasks/leetcode/Roman to Integer.md",
     "tasks/leetcode/Merge Two Sorted Lists.md",
     "tasks/leetcode/Longest Common Prefix.md",
