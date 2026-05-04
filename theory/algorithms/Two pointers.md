@@ -40,6 +40,22 @@ fun twoSum(list: List<Int>, target: Int): Pair<Int, Int>? {
 val list = listOf(0, 1, 0, 0, 3, 12, 2)
 ```
 Без создания нового массива переместить все нули в конец списка
+```Kotlin
+fun moveZeros(list: List<Int>): List<Int> {  
+    val tempList = list.toMutableList()  
+    var fast = 0  
+    var slow = 0  
+  
+    while (fast < tempList.size) {  
+        if (list[fast] != 0) {  
+            tempList[slow] = tempList[fast].also { tempList[fast] = tempList[slow] }  
+            slow++  
+        }  
+        fast++  
+    }  
+    return tempList  
+}
+```
 
 
 # To each its own pointer
