@@ -15,7 +15,7 @@
               "state": {
                 "file": "theory/algorithms/Two pointers.md",
                 "mode": "source",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
               "title": "Two pointers"

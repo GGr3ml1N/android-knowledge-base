@@ -35,6 +35,11 @@ fun twoSum(list: List<Int>, target: Int): Pair<Int, Int>? {
 - ответ формируется за счет сужения области с двух сторон
 
 # Fast and slow
+Дан массив чисел
+```Kotlin
+val list = listOf(0, 1, 0, 0, 3, 12, 2)
+```
+Без создания нового массива переместить все нули в конец списка
 
 
 # To each its own pointer
