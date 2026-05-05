@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "theory/algorithms/Floating window.md",
-                "mode": "source",
-                "source": true
+                "file": "IDP.md",
+                "mode": "preview",
+                "source": false
               },
               "icon": "lucide-file",
-              "title": "Floating window"
+              "title": "IDP"
             }
           }
         ]
@@ -208,10 +208,10 @@
   },
   "active": "8d4ab1b89f078f81",
   "lastOpenFiles": [
-    "theory/algorithms/Two pointers.md",
     "theory/algorithms/Floating window.md",
-    "theory/algorithms/!Algorithms.md",
     "IDP.md",
+    "theory/algorithms/Two pointers.md",
+    "theory/algorithms/!Algorithms.md",
     "theory/kotlin/basics of kotlin/Nested and inner classes and interfaces.md",
     "ai/What do I need to start.md",
     "Без названия.md",
