@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "IDP.md",
+                "file": "theory/algorithms/Floating window.md",
                 "mode": "source",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
-              "title": "IDP"
+              "title": "Floating window"
             }
           }
         ]
@@ -208,8 +208,9 @@
   },
   "active": "8d4ab1b89f078f81",
   "lastOpenFiles": [
-    "theory/algorithms/Two pointers.md",
     "theory/algorithms/!Algorithms.md",
+    "theory/algorithms/Two pointers.md",
+    "theory/algorithms/Floating window.md",
     "IDP.md",
     "theory/kotlin/basics of kotlin/Nested and inner classes and interfaces.md",
     "ai/What do I need to start.md",
@@ -249,7 +250,6 @@
     "resources/Снимок экрана 2026-03-10 в 12.58.45.png",
     "resources/Ядро.png",
     "theory/linux",
-    "theory/android/jetpack compose/container/LazyColumn, LazyRow.md",
     "Без названия.base",
     "tasks/leetcode",
     "theory/android/jetpack compose/lifecycle",
