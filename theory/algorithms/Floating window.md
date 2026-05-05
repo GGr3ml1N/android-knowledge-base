@@ -34,7 +34,33 @@ val list = listOf(1, 2, 3, 5, 8, 9, 14) //Ответ в формате [1->3, 5,
 ```
 
 ```Kotlin
-
+fun compressRanges(intList: List<Int>): List<String> {  
+    var l = 0  
+    var r = 0  
+    val result = mutableListOf<String>()  
+  
+    while (l < intList.size) {  
+        while (r + 1 < intList.size && intList[r] + 1 == intList[r + 1])  
+            r++  
+  
+        if (r != l) {  
+            result.add("${intList[l]}->${intList[r]}")  
+        } else {  
+            result.add(intList[l].toString())  
+        }  
+        l = r + 1  
+        r += 1  
+    }  
+    return result  
+}
 ```
+#### Признаки решения задач этим методом
+- нужно работать с подряд идущими элементами
+- один элемент принадлежит к одной группе (группы не пересекаются)
 
 # Пересекающиеся окна
+#### Пример
+Дан массив состоящий из нулей и единиц
+```Kotlin
+val list = listOf(1, 0, 1, 0, 1, 0, 1, 1)
+```
