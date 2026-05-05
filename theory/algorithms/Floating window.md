@@ -33,4 +33,8 @@ fun kElementsMaxSum(intList: List<Int>, k: Int): Int {
 val list = listOf(1, 2, 3, 5, 8, 9, 14) //Ответ в формате [1->3, 5, 8->9, 14]
 ```
 
+```Kotlin
+
+```
+
 # Пересекающиеся окна
