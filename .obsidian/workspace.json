@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "IDP.md",
+                "file": "tasks/leetcode/Algorithms.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "IDP"
+              "title": "Algorithms"
             }
           }
         ]
@@ -208,8 +208,8 @@
   },
   "active": "8d4ab1b89f078f81",
   "lastOpenFiles": [
-    "theory/algorithms/Floating window.md",
     "IDP.md",
+    "theory/algorithms/Floating window.md",
     "theory/algorithms/Two pointers.md",
     "theory/algorithms/!Algorithms.md",
     "theory/kotlin/basics of kotlin/Nested and inner classes and interfaces.md",
