@@ -11,12 +11,14 @@
             "id": "8d4ab1b89f078f81",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "resources/Кольца защиты.png"
+                "file": "theory/Commits.md",
+                "mode": "source",
+                "source": true
               },
-              "icon": "lucide-image",
-              "title": "Кольца защиты"
+              "icon": "lucide-file",
+              "title": "Commits"
             }
           }
         ]
@@ -204,8 +206,9 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "1de83f8bd9f1d789",
+  "active": "8d4ab1b89f078f81",
   "lastOpenFiles": [
+    "theory/linux/Простейшие команды Linux.md",
     "resources/Кольца защиты.png",
     "tasks/Тинькофф 21.05.2025.md",
     "tasks/leetcode/Algorithms.md",
@@ -228,7 +231,6 @@
     "theory/android/dagger 2/!Dagger 2.md",
     "theory/android/dagger 2",
     "theory/linux/Кольца защиты и современные ОС 1.md",
-    "theory/linux/Простейшие команды Linux.md",
     "theory/linux/Структура каталогов Linux.md",
     "resources/Bonus_10_basovih_komand_Linux.pdf",
     "theory/kotlin/basics of kotlin/Data classes.md",
