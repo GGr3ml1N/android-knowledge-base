@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "theory/Commits.md",
+                "file": "theory/linux/!Linux.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Commits"
+              "title": "!Linux"
             }
           }
         ]
@@ -208,6 +208,11 @@
   },
   "active": "8d4ab1b89f078f81",
   "lastOpenFiles": [
+    "theory/linux/Для чего нужна ОС.md",
+    "theory/linux/!Linux.md",
+    "theory/linux/Структура каталогов Linux.md",
+    "theory/linux/Ядро ОС.md",
+    "theory/Commits.md",
     "theory/linux/Простейшие команды Linux.md",
     "resources/Кольца защиты.png",
     "tasks/Тинькофф 21.05.2025.md",
@@ -219,7 +224,6 @@
     "theory/kotlin/basics of kotlin/Nested and inner classes and interfaces.md",
     "ai/What do I need to start.md",
     "Без названия.md",
-    "theory/Commits.md",
     "ai",
     "TOREAD.md",
     "theory/android/Elementary State Manager.md",
@@ -231,15 +235,12 @@
     "theory/android/dagger 2/!Dagger 2.md",
     "theory/android/dagger 2",
     "theory/linux/Кольца защиты и современные ОС 1.md",
-    "theory/linux/Структура каталогов Linux.md",
     "resources/Bonus_10_basovih_komand_Linux.pdf",
     "theory/kotlin/basics of kotlin/Data classes.md",
     "theory/linux/Кольца защиты и современные ОС.md",
     "conflict-files-obsidian-git.md",
     "resources/Linux hierarchy.png",
-    "theory/kotlin/coroutines/!Coroutines.md",
     "theory/kotlin/coroutines",
-    "theory/linux/Ядро ОС.md",
     "resources/Снимок экрана 2026-03-10 в 13.24.43.png",
     "resources/Hybrid.png",
     "resources/Снимок экрана 2026-03-10 в 13.14.54.png",
