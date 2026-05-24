@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "theory/linux/!Linux.md",
+                "file": "theory/Commits.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "!Linux"
+              "title": "Commits"
             }
           }
         ]
@@ -208,8 +208,8 @@
   },
   "active": "8d4ab1b89f078f81",
   "lastOpenFiles": [
-    "theory/linux/Для чего нужна ОС.md",
     "theory/linux/!Linux.md",
+    "theory/linux/Для чего нужна ОС.md",
     "theory/linux/Структура каталогов Linux.md",
     "theory/linux/Ядро ОС.md",
     "theory/Commits.md",
