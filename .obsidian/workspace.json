@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "theory/Commits.md",
-                "mode": "source",
+                "file": "theory/android/jetpack compose/container/FlowRow, FlowColumn.md",
+                "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Commits"
+              "title": "FlowRow, FlowColumn"
             }
           }
         ]
@@ -206,13 +206,15 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "8d4ab1b89f078f81",
+  "active": "1de83f8bd9f1d789",
   "lastOpenFiles": [
+    "theory/android/jetpack compose/container/FlowRow, FlowColumn.md",
+    "theory/android/jetpack compose/container/Modifier.md",
+    "theory/Commits.md",
     "theory/linux/!Linux.md",
     "theory/linux/Для чего нужна ОС.md",
     "theory/linux/Структура каталогов Linux.md",
     "theory/linux/Ядро ОС.md",
-    "theory/Commits.md",
     "theory/linux/Простейшие команды Linux.md",
     "resources/Кольца защиты.png",
     "tasks/Тинькофф 21.05.2025.md",
@@ -237,8 +239,6 @@
     "theory/linux/Кольца защиты и современные ОС 1.md",
     "resources/Bonus_10_basovih_komand_Linux.pdf",
     "theory/kotlin/basics of kotlin/Data classes.md",
-    "theory/linux/Кольца защиты и современные ОС.md",
-    "conflict-files-obsidian-git.md",
     "resources/Linux hierarchy.png",
     "theory/kotlin/coroutines",
     "resources/Снимок экрана 2026-03-10 в 13.24.43.png",
