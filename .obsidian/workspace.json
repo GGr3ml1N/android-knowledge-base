@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TOREAD.md",
+                "file": "Менти.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "TOREAD"
+              "title": "Менти"
             }
           }
         ]
@@ -208,6 +208,8 @@
   },
   "active": "8d4ab1b89f078f81",
   "lastOpenFiles": [
+    "TOREAD.md",
+    "Менти.md",
     "theory/android/jetpack compose/container/Modifier.md",
     "theory/android/jetpack compose/container/FlowRow, FlowColumn.md",
     "theory/Commits.md",
@@ -225,9 +227,7 @@
     "theory/algorithms/!Algorithms.md",
     "theory/kotlin/basics of kotlin/Nested and inner classes and interfaces.md",
     "ai/What do I need to start.md",
-    "Без названия.md",
     "ai",
-    "TOREAD.md",
     "theory/android/Elementary State Manager.md",
     "tasks/leetcode/Roman to Integer.md",
     "tasks/leetcode/Merge Two Sorted Lists.md",
