@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "theory/android/Elementary State Manager.md",
+                "file": "theory/algorithms/Two pointers.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Elementary State Manager"
+              "title": "Two pointers"
             }
           }
         ]
@@ -208,9 +208,12 @@
   },
   "active": "8d4ab1b89f078f81",
   "lastOpenFiles": [
-    "theory/android/Android.md",
+    "theory/algorithms/Floating window.md",
+    "theory/algorithms/!Algorithms.md",
     "Менти.md",
     "TOREAD.md",
+    "theory/android/Elementary State Manager.md",
+    "theory/android/Android.md",
     "theory/android/jetpack compose/container/Modifier.md",
     "theory/android/jetpack compose/container/FlowRow, FlowColumn.md",
     "theory/Commits.md",
@@ -223,13 +226,10 @@
     "tasks/Тинькофф 21.05.2025.md",
     "tasks/leetcode/Algorithms.md",
     "IDP.md",
-    "theory/algorithms/Floating window.md",
     "theory/algorithms/Two pointers.md",
-    "theory/algorithms/!Algorithms.md",
     "theory/kotlin/basics of kotlin/Nested and inner classes and interfaces.md",
     "ai/What do I need to start.md",
     "ai",
-    "theory/android/Elementary State Manager.md",
     "tasks/leetcode/Roman to Integer.md",
     "tasks/leetcode/Merge Two Sorted Lists.md",
     "tasks/leetcode/Longest Common Prefix.md",
