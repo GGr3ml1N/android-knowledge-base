@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "theory/android/jetpack compose/container/FlowRow, FlowColumn.md",
-                "mode": "preview",
+                "file": "TOREAD.md",
+                "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "FlowRow, FlowColumn"
+              "title": "TOREAD"
             }
           }
         ]
@@ -206,10 +206,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "1de83f8bd9f1d789",
+  "active": "8d4ab1b89f078f81",
   "lastOpenFiles": [
-    "theory/android/jetpack compose/container/FlowRow, FlowColumn.md",
     "theory/android/jetpack compose/container/Modifier.md",
+    "theory/android/jetpack compose/container/FlowRow, FlowColumn.md",
     "theory/Commits.md",
     "theory/linux/!Linux.md",
     "theory/linux/Для чего нужна ОС.md",

@@ -19,3 +19,6 @@ retain{
 ## Паттерны
 Манада?
 object это singleton?
+
+##  Кеширование
+[LruCache](https://developer.android.com/reference/android/util/LruCache)
