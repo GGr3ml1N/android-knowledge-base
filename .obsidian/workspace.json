@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Менти.md",
+                "file": "theory/android/Elementary State Manager.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Менти"
+              "title": "Elementary State Manager"
             }
           }
         ]
@@ -208,8 +208,9 @@
   },
   "active": "8d4ab1b89f078f81",
   "lastOpenFiles": [
-    "TOREAD.md",
+    "theory/android/Android.md",
     "Менти.md",
+    "TOREAD.md",
     "theory/android/jetpack compose/container/Modifier.md",
     "theory/android/jetpack compose/container/FlowRow, FlowColumn.md",
     "theory/Commits.md",
@@ -238,7 +239,6 @@
     "theory/android/dagger 2",
     "theory/linux/Кольца защиты и современные ОС 1.md",
     "resources/Bonus_10_basovih_komand_Linux.pdf",
-    "theory/kotlin/basics of kotlin/Data classes.md",
     "resources/Linux hierarchy.png",
     "theory/kotlin/coroutines",
     "resources/Снимок экрана 2026-03-10 в 13.24.43.png",
