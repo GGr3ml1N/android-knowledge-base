@@ -26,4 +26,4 @@ object это singleton?
 
 ## Gradle 
 1. Flavors
-2. 
+2. buildSrc
