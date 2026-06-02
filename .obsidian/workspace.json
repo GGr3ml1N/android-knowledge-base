@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "theory/algorithms/Two pointers.md",
+                "file": "TOREAD.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Two pointers"
+              "title": "TOREAD"
             }
           }
         ]
@@ -208,6 +208,7 @@
   },
   "active": "8d4ab1b89f078f81",
   "lastOpenFiles": [
+    "theory/algorithms/Two pointers.md",
     "theory/algorithms/Floating window.md",
     "theory/algorithms/!Algorithms.md",
     "Менти.md",
@@ -226,7 +227,6 @@
     "tasks/Тинькофф 21.05.2025.md",
     "tasks/leetcode/Algorithms.md",
     "IDP.md",
-    "theory/algorithms/Two pointers.md",
     "theory/kotlin/basics of kotlin/Nested and inner classes and interfaces.md",
     "ai/What do I need to start.md",
     "ai",

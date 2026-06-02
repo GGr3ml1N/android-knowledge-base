@@ -22,3 +22,8 @@ object это singleton?
 
 ##  Кеширование
 [LruCache](https://developer.android.com/reference/android/util/LruCache)
+
+
+## Gradle 
+1. Flavors
+2. 
