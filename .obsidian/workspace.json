@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TOREAD.md",
+                "file": "Менти.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "TOREAD"
+              "title": "Менти"
             }
           }
         ]
@@ -208,8 +208,8 @@
   },
   "active": "8d4ab1b89f078f81",
   "lastOpenFiles": [
-    "IDP.md",
     "TOREAD.md",
+    "IDP.md",
     "theory/algorithms/Two pointers.md",
     "theory/algorithms/Floating window.md",
     "theory/algorithms/!Algorithms.md",
