@@ -6,10 +6,8 @@ context.sendBroadcast(intent)
 ```
 
 <div style="margin-left: 25px;">В примере выше сообщение получит только **MyBroadcastReceiver**.</div>
-<br>
-<div style="margin-left: 25px;">Если **intent** содержит **action**, то сообщение получат все ресиверы, зарегистрированные с соответствующим интент фильтром:</div>
 
-   
+<div style="margin-left: 25px;">Если **intent** содержит **action**, то сообщение получат все ресиверы, зарегистрированные с соответствующим интент фильтром:</div>
    
 ```kotlin
 val intent = Intent("my_custom_action")
