@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "IDP.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
@@ -186,12 +186,11 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
-    "width": 302.5,
-    "collapsed": true
+    "width": 302.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -208,6 +207,7 @@
   },
   "active": "8d4ab1b89f078f81",
   "lastOpenFiles": [
+    "IDP.md",
     "theory/android/jetpack compose/container/Box.md",
     "theory/android/jetpack compose/container/Container compositions.md",
     "theory/android/android components/activity/Config change.md",
@@ -215,7 +215,6 @@
     "theory/android/android components/broadcast receiver/Methods for sending broadcast.md",
     "theory/android/android components/broadcast receiver/​!BroadcastReceiver.md",
     "theory/android/android components/broadcast receiver/Long operations in onReceive().md",
-    "IDP.md",
     "Менти.md",
     "TOREAD.md",
     "theory/algorithms/Two pointers.md",
