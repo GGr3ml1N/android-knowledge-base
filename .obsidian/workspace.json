@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Менти.md",
+                "file": "IDP.md",
                 "mode": "source",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
-              "title": "Менти"
+              "title": "IDP"
             }
           }
         ]
@@ -207,6 +207,8 @@
   },
   "active": "8d4ab1b89f078f81",
   "lastOpenFiles": [
+    "TOREAD.md",
+    "Менти.md",
     "theory/android/android components/service/!Service.md",
     "theory/android/jetpack compose/!Jetpack Compose.md",
     "theory/android/jetpack compose/modifier/!Modifier.md",
@@ -218,8 +220,6 @@
     "theory/android/android components/broadcast receiver/Methods for sending broadcast.md",
     "theory/android/android components/broadcast receiver/​!BroadcastReceiver.md",
     "theory/android/android components/broadcast receiver/Long operations in onReceive().md",
-    "Менти.md",
-    "TOREAD.md",
     "theory/algorithms/Two pointers.md",
     "theory/algorithms/Floating window.md",
     "theory/algorithms/!Algorithms.md",
