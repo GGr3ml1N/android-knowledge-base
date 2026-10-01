@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "theory/algorithms/Two pointers.md",
+                "file": "theory/algorithms/Floating window.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Two pointers"
+              "title": "Floating window"
             }
           }
         ]
@@ -210,6 +210,7 @@
   },
   "active": "8d4ab1b89f078f81",
   "lastOpenFiles": [
+    "theory/algorithms/Two pointers.md",
     "theory/algorithms/Floating window.md",
     "theory/algorithms/!Algorithms.md",
     "IDP.md",
@@ -225,7 +226,6 @@
     "theory/android/android components/broadcast receiver/Methods for sending broadcast.md",
     "theory/android/android components/broadcast receiver/​!BroadcastReceiver.md",
     "theory/android/android components/broadcast receiver/Long operations in onReceive().md",
-    "theory/algorithms/Two pointers.md",
     "theory/android/Elementary State Manager.md",
     "theory/android/Android.md",
     "theory/android/jetpack compose/container/Modifier.md",
