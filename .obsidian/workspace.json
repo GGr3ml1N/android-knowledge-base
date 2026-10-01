@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "IDP.md",
+                "file": "theory/algorithms/Two pointers.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "IDP"
+              "title": "Two pointers"
             }
           }
         ]
@@ -41,7 +41,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
               "title": "Файловый менеджер"
@@ -208,12 +210,14 @@
   },
   "active": "8d4ab1b89f078f81",
   "lastOpenFiles": [
+    "theory/algorithms/Floating window.md",
+    "theory/algorithms/!Algorithms.md",
+    "IDP.md",
     "TOREAD.md",
     "Менти.md",
     "theory/android/android components/service/!Service.md",
     "theory/android/jetpack compose/!Jetpack Compose.md",
     "theory/android/jetpack compose/modifier/!Modifier.md",
-    "IDP.md",
     "theory/android/jetpack compose/container/Box.md",
     "theory/android/jetpack compose/container/Container compositions.md",
     "theory/android/android components/activity/Config change.md",
@@ -222,8 +226,6 @@
     "theory/android/android components/broadcast receiver/​!BroadcastReceiver.md",
     "theory/android/android components/broadcast receiver/Long operations in onReceive().md",
     "theory/algorithms/Two pointers.md",
-    "theory/algorithms/Floating window.md",
-    "theory/algorithms/!Algorithms.md",
     "theory/android/Elementary State Manager.md",
     "theory/android/Android.md",
     "theory/android/jetpack compose/container/Modifier.md",
