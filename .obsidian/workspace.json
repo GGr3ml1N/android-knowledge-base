@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "theory/algorithms/Floating window.md",
+                "file": "theory/algorithms/Two pointers.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Floating window"
+              "title": "Two pointers"
             }
           }
         ]
@@ -210,8 +210,8 @@
   },
   "active": "8d4ab1b89f078f81",
   "lastOpenFiles": [
-    "theory/algorithms/Two pointers.md",
     "theory/algorithms/Floating window.md",
+    "theory/algorithms/Two pointers.md",
     "theory/algorithms/!Algorithms.md",
     "IDP.md",
     "TOREAD.md",
