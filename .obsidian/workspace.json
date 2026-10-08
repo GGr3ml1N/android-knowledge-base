@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "IDP.md",
+                "file": "theory/algorithms/Floating window.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "IDP"
+              "title": "Floating window"
             }
           }
         ]
@@ -80,8 +80,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 330.5,
-    "collapsed": true
+    "width": 330.5
   },
   "right": {
     "id": "2347bcf6ddfa032b",
@@ -210,10 +209,10 @@
   },
   "active": "8d4ab1b89f078f81",
   "lastOpenFiles": [
+    "IDP.md",
     "theory/algorithms/Two pointers.md",
     "theory/algorithms/Floating window.md",
     "theory/algorithms/!Algorithms.md",
-    "IDP.md",
     "TOREAD.md",
     "Менти.md",
     "theory/android/android components/service/!Service.md",
