@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "theory/algorithms/Floating window.md",
+                "file": "IDP.md",
                 "mode": "source",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
-              "title": "Floating window"
+              "title": "IDP"
             }
           }
         ]
@@ -209,9 +209,9 @@
   },
   "active": "8d4ab1b89f078f81",
   "lastOpenFiles": [
+    "theory/algorithms/Floating window.md",
     "IDP.md",
     "theory/algorithms/Two pointers.md",
-    "theory/algorithms/Floating window.md",
     "theory/algorithms/!Algorithms.md",
     "TOREAD.md",
     "Менти.md",
