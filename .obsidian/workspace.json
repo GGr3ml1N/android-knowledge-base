@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Obsidian guide.md",
-                "mode": "preview",
-                "source": true
+                "file": "ai/What do I need to start.md",
+                "mode": "source",
+                "source": false
               },
               "icon": "lucide-file",
-              "title": "Obsidian guide"
+              "title": "What do I need to start"
             }
           }
         ]
@@ -188,7 +188,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -207,10 +207,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "8d4ab1b89f078f81",
+  "active": "e0b8ab597f0637c3",
   "lastOpenFiles": [
-    "ai/What do I need to start.md",
     "Obsidian guide.md",
+    "ai/What do I need to start.md",
     "IDP.md",
     "theory/algorithms/Floating window.md",
     "theory/algorithms/Two pointers.md",
