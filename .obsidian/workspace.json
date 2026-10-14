@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ai/What do I need to start.md",
-                "mode": "source",
+                "file": "Obsidian guide.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "What do I need to start"
+              "title": "Obsidian guide"
             }
           }
         ]
@@ -207,10 +207,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "e0b8ab597f0637c3",
+  "active": "8d4ab1b89f078f81",
   "lastOpenFiles": [
-    "Obsidian guide.md",
     "ai/What do I need to start.md",
+    "Obsidian guide.md",
+    "Без названия.md",
     "IDP.md",
     "theory/algorithms/Floating window.md",
     "theory/algorithms/Two pointers.md",
@@ -234,7 +235,6 @@
     "theory/Commits.md",
     "theory/linux/!Linux.md",
     "theory/linux/Для чего нужна ОС.md",
-    "theory/linux/Структура каталогов Linux.md",
     "resources/Кольца защиты.png",
     "ai",
     "theory/algorithms",
