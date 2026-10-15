@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "IDP.md",
+                "file": "theory/android/rx java 2/!RxJava2.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "IDP"
+              "title": "!RxJava2"
             }
           }
         ]
@@ -209,8 +209,13 @@
   },
   "active": "8d4ab1b89f078f81",
   "lastOpenFiles": [
-    "ai/What do I need to start.md",
+    "theory/android/jetpack compose/modifier/!Modifier.md",
+    "theory/android/Android.md",
+    "theory/android/rx java 2/!RxJava2.md",
+    "theory/android/rx java 2/Basics.md",
     "IDP.md",
+    "theory/android/rx java 2",
+    "ai/What do I need to start.md",
     "Obsidian guide.md",
     "Без названия.md",
     "theory/algorithms/Floating window.md",
@@ -220,7 +225,6 @@
     "Менти.md",
     "theory/android/android components/service/!Service.md",
     "theory/android/jetpack compose/!Jetpack Compose.md",
-    "theory/android/jetpack compose/modifier/!Modifier.md",
     "theory/android/jetpack compose/container/Box.md",
     "theory/android/jetpack compose/container/Container compositions.md",
     "theory/android/android components/activity/Config change.md",
@@ -229,12 +233,9 @@
     "theory/android/android components/broadcast receiver/​!BroadcastReceiver.md",
     "theory/android/android components/broadcast receiver/Long operations in onReceive().md",
     "theory/android/Elementary State Manager.md",
-    "theory/android/Android.md",
     "theory/android/jetpack compose/container/Modifier.md",
     "theory/android/jetpack compose/container/FlowRow, FlowColumn.md",
     "theory/Commits.md",
-    "theory/linux/!Linux.md",
-    "theory/linux/Для чего нужна ОС.md",
     "resources/Кольца защиты.png",
     "ai",
     "theory/algorithms",
@@ -253,7 +254,6 @@
     "theory/linux",
     "Без названия.base",
     "tasks/leetcode",
-    "theory/android/jetpack compose/lifecycle",
-    "resources/Не подтверждено 998.~"
+    "theory/android/jetpack compose/lifecycle"
   ]
 }
