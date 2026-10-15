@@ -15,7 +15,7 @@
               "state": {
                 "file": "theory/android/android components/service/Foreground Service.md",
                 "mode": "source",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
               "title": "Foreground Service"
