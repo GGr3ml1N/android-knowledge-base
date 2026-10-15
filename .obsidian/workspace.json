@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "theory/android/rx java 2/!RxJava2.md",
+                "file": "IDP.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "!RxJava2"
+              "title": "IDP"
             }
           }
         ]
@@ -209,11 +209,13 @@
   },
   "active": "8d4ab1b89f078f81",
   "lastOpenFiles": [
-    "theory/android/jetpack compose/modifier/!Modifier.md",
-    "theory/android/Android.md",
-    "theory/android/rx java 2/!RxJava2.md",
     "theory/android/rx java 2/Basics.md",
     "IDP.md",
+    "theory/android/rx java 2/!RxJava2.md",
+    "theory/android/Android.md",
+    "theory/android/rx java 2/Backpressure, migration.md",
+    "theory/android/android components/broadcast receiver/Long operations in onReceive().md",
+    "theory/android/jetpack compose/modifier/!Modifier.md",
     "theory/android/rx java 2",
     "ai/What do I need to start.md",
     "Obsidian guide.md",
@@ -231,11 +233,9 @@
     "theory/android/android components/activity/Activity Lifecycle.md",
     "theory/android/android components/broadcast receiver/Methods for sending broadcast.md",
     "theory/android/android components/broadcast receiver/​!BroadcastReceiver.md",
-    "theory/android/android components/broadcast receiver/Long operations in onReceive().md",
     "theory/android/Elementary State Manager.md",
     "theory/android/jetpack compose/container/Modifier.md",
     "theory/android/jetpack compose/container/FlowRow, FlowColumn.md",
-    "theory/Commits.md",
     "resources/Кольца защиты.png",
     "ai",
     "theory/algorithms",
