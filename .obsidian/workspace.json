@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "theory/android/android components/service/Foreground Service.md",
-                "mode": "source",
+                "file": "IDP.md",
+                "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Foreground Service"
+              "title": "IDP"
             }
           }
         ]
@@ -209,11 +209,11 @@
   },
   "active": "8d4ab1b89f078f81",
   "lastOpenFiles": [
+    "theory/android/android components/service/Foreground Service.md",
     "theory/android/android components/activity/Config change.md",
     "theory/android/android components/service/Background Service.md",
     "theory/android/android components/service/Service thread.md",
     "theory/android/android components/service/IntentService, JobIntentService.md",
-    "theory/android/android components/service/Foreground Service.md",
     "theory/android/android components/Android Components.md",
     "theory/android/android components/content provider/ContentResolver.md",
     "theory/android/android components/content provider/System ContentProvider.md",
