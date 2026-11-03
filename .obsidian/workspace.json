@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "IDP.md",
+                "file": "theory/manuals/git.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "IDP"
+              "title": "git"
             }
           }
         ]
@@ -80,7 +80,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 330.5
+    "width": 337.58984375
   },
   "right": {
     "id": "2347bcf6ddfa032b",
@@ -168,23 +168,13 @@
             }
           },
           {
-            "id": "e0b8ab597f0637c3",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {},
-              "icon": "lucide-ghost",
-              "title": "git-view"
-            }
-          },
-          {
             "id": "05ef1185ac6d2204",
             "type": "leaf",
             "state": {
               "type": "advanced-tables-toolbar",
               "state": {},
-              "icon": "lucide-ghost",
-              "title": "advanced-tables-toolbar"
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
             }
           }
         ],
@@ -202,11 +192,26 @@
       "daily-notes:Сегодняшняя заметка": false,
       "templates:Вставить шаблон": false,
       "command-palette:Открыть палитру команд": false,
-      "bases:Создать новую базу": false
+      "bases:Создать новую базу": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
   "active": "8d4ab1b89f078f81",
   "lastOpenFiles": [
+    "theory/spring/6. JPA и PostgreSQL.md",
+    "theory/manuals/git.md",
+    "theory/manuals/curl.md",
+    "theory/manuals/docker.md",
+    "theory/manuals/psql.md",
+    "theory/Без названия.md",
+    "theory/manuals",
+    "theory/spring/5. Валидация входных данных.md",
+    "theory/spring/4. Обработка ошибок и статус-коды.md",
+    "theory/spring/3. Слои приложения и POST.md",
+    "theory/spring/1. IoC-контейнер и бины.md",
+    "theory/spring/2. Web-слой @RestController.md",
+    "IDP.md",
+    "theory/spring",
     "theory/android/android components/service/Foreground Service.md",
     "theory/android/android components/activity/Config change.md",
     "theory/android/android components/service/Background Service.md",
@@ -221,19 +226,7 @@
     "theory/android/android components/broadcast receiver/Long operations in onReceive().md",
     "theory/android/android components/broadcast receiver/​!BroadcastReceiver.md",
     "theory/android/android components/activity/Activity Lifecycle.md",
-    "theory/android/android components/activity/!Activity.md",
-    "IDP.md",
-    "theory/android/dagger 2/Intro.md",
-    "theory/android/rx java 2/Basics.md",
-    "theory/android/rx java 2/!RxJava2.md",
-    "theory/android/Android.md",
-    "theory/android/rx java 2/Backpressure, migration.md",
-    "theory/android/jetpack compose/modifier/!Modifier.md",
     "theory/android/rx java 2",
-    "ai/What do I need to start.md",
-    "Obsidian guide.md",
-    "Без названия.md",
-    "theory/algorithms/Floating window.md",
     "resources/Кольца защиты.png",
     "ai",
     "theory/algorithms",
@@ -250,8 +243,6 @@
     "resources/Снимок экрана 2026-03-10 в 12.58.45.png",
     "resources/Ядро.png",
     "theory/linux",
-    "Без названия.base",
-    "tasks/leetcode",
-    "theory/android/jetpack compose/lifecycle"
+    "Без названия.base"
   ]
 }
